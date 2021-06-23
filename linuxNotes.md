@@ -1997,11 +1997,7 @@ xh 需要重新注销在到 jack 目录就可以操作	jack 的文件
 ## 11.1、原理示意图
 
 crontab 进行 定时任务的设置，。
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](C:\Users\HymesZhao\Desktop\________Linux__(__ ___ JavaEE Python___) - __\imgs\wps2.png) |
-
+![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.303.jpeg)
 ## 11.2、概述
 
 ​		任务调度：是指系统在某个时间执行的特定的命令或程序。
@@ -2046,11 +2042,7 @@ crontab 进行 定时任务的设置，。
 ### 11.4.3、参数细节说明
 
 ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.162.jpeg)
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](C:\Users\HymesZhao\Desktop\________Linux__(__ ___ JavaEE Python___) - __\imgs\wps3.png) |
-
+![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.302.jpeg)
 ## 11.5、任务调度的几个应用实例
 
 ### 11.5.1、案例 1：
