@@ -1,4 +1,251 @@
-﻿# 第 1 章 Linux 开山篇
+﻿- [第 1 章 Linux 开山篇](#第-1-章-linux-开山篇)
+  - [本套 Linux 课程的内容介绍](#本套-linux-课程的内容介绍)
+  - [1.2、Linux 的学习方向](#12linux-的学习方向)
+    - [1.2.1、Linux 运维工程师](#121linux-运维工程师)
+    - [1.2.2、Linux 嵌入式开发工程师](#122linux-嵌入式开发工程师)
+  - [1.3、Linux 的应用领域](#13linux-的应用领域)
+    - [1.3.1、个人桌面应用领域](#131个人桌面应用领域)
+    - [1.3.2、服务器应用领域](#132服务器应用领域)
+- [第 2 章 基础篇 Linux 入门](#第-2-章-基础篇-linux-入门)
+  - [2.2、unix 是怎么来的](#22unix-是怎么来的)
+  - [2.3、Linux 是怎么来的](#23linux-是怎么来的)
+  - [2.4、linux 和 unix 关系一览图](#24linux-和-unix-关系一览图)
+  - [2.5、linux 和 Windows 比较](#25linux-和-windows-比较)
+- [第 3 章 基础篇 VM 和 Linux 系统(CentOS)安装](#第-3-章-基础篇-vm-和-linux-系统centos安装)
+  - [3.1、安装 **vm** 和 **Centos**](#31安装-vm-和-centos)
+  - [3.2、vm 软件和CentOS 的安装软件](#32vm-软件和centos-的安装软件)
+  - [3.3、VM 安装的步骤](#33vm-安装的步骤)
+  - [3.4、CentOS安装的步骤](#34centos安装的步骤)
+  - [3.5、CentOS 的终端使用和联网](#35centos-的终端使用和联网)
+  - [3.6、vmtools 安装](#36vmtools-安装)
+    - [3.6.1、介绍](#361介绍)
+  - [3.7、vmtools 的安装和使用](#37vmtools-的安装和使用)
+    - [3.7.1、安装vmtools 的步骤说明](#371安装vmtools-的步骤说明)
+    - [3.7.2、使用vmtools 来设置windows 和linux 的共享文件夹](#372使用vmtools-来设置windows-和linux-的共享文件夹)
+    - [3.7.3、安装vmtools 的课堂练习](#373安装vmtools-的课堂练习)
+- [第 4 章 基础篇 Linux 的目录结构](#第-4-章-基础篇-linux-的目录结构)
+  - [4.1、基本介绍](#41基本介绍)
+  - [4.2、目录结构的具体介绍](#42目录结构的具体介绍)
+  - [4.3、Linux 目录总结一下](#43linux-目录总结一下)
+- [第 5 章 实操篇 远程登录 Linux 系统](#第-5-章-实操篇-远程登录-linux-系统)
+  - [5.1、为什么需要远程登录Linux](#51为什么需要远程登录linux)
+    - [5.1.1、示意图](#511示意图)
+    - [5.1.2、说明](#512说明)
+  - [5.2、远程登录Linux-Xshell5](#52远程登录linux-xshell5)
+  - [5.3、安装 XShell5 并使用](#53安装-xshell5-并使用)
+    - [5.3.1、安装过程](#531安装过程)
+    - [5.3.2、XShell5 的关键配置](#532xshell5-的关键配置)
+    - [5.3.3、XShel5 远程登录到Linux 后，就可以使用指令来操作Linux 系统](#533xshel5-远程登录到linux-后就可以使用指令来操作linux-系统)
+  - [5.4、远程上传下载文件 Xftp5](#54远程上传下载文件-xftp5)
+    - [5.4.1、XFtp5 软件介绍](#541xftp5-软件介绍)
+    - [5.4.2、XFtp5 软件的安装](#542xftp5-软件的安装)
+    - [5.4.3、Xftp5 的配置和使用](#543xftp5-的配置和使用)
+    - [5.4.4、如何解决XFTP5 中文乱码的问题](#544如何解决xftp5-中文乱码的问题)
+  - [5.5、Xftp5 和 XShell5 的使用](#55xftp5-和-xshell5-的使用)
+- [第 6 章 实操篇 vi 和 vim 编辑器](#第-6-章-实操篇-vi-和-vim-编辑器)
+  - [6.1、vi 和 vim 的基本介绍](#61vi-和-vim-的基本介绍)
+  - [6.2、vi 和vim 的三种常见模式](#62vi-和vim-的三种常见模式)
+    - [6.2.1、正常模式](#621正常模式)
+    - [6.2.2、插入模式/编辑模式](#622插入模式编辑模式)
+    - [6.2.3、命令行模式](#623命令行模式)
+  - [6.3、快速入门案例](#63快速入门案例)
+  - [6.4、vi 和 vim	三种模式的相互转化图](#64vi-和-vim三种模式的相互转化图)
+  - [6.5、快捷键的使用案例](#65快捷键的使用案例)
+  - [6.6、vim 和 vi 的快捷键键盘一览图](#66vim-和-vi-的快捷键键盘一览图)
+  - [6.7、vi 和 vim 课堂练习](#67vi-和-vim-课堂练习)
+- [第 7 章 实操篇 开机、重启和用户登录注销](#第-7-章-实操篇-开机重启和用户登录注销)
+  - [7.1、关机&重启命令](#71关机重启命令)
+    - [7.1.1、基本介绍](#711基本介绍)
+    - [7.1.2、注意细节](#712注意细节)
+  - [7.2、用户登录和注销](#72用户登录和注销)
+    - [7.2.1、基本介绍](#721基本介绍)
+    - [7.2.2、使用细节](#722使用细节)
+- [第 8 章 实操篇 用户管理](#第-8-章-实操篇-用户管理)
+  - [8.1、基本介绍](#81基本介绍)
+  - [8.2、添加用户](#82添加用户)
+    - [8.2.1、基本语法](#821基本语法)
+  - [8.2.2、实际案例](#822实际案例)
+    - [8.2.3、细节说明](#823细节说明)
+  - [8.3、给用户指定或者修改密码](#83给用户指定或者修改密码)
+  - [8.4、删除用户](#84删除用户)
+    - [8.4.1、基本语法](#841基本语法)
+    - [8.4.2、应用案例](#842应用案例)
+    - [8.4.3、思考题](#843思考题)
+  - [8.5、查询用户信息](#85查询用户信息)
+    - [8.5.1、基本语法](#851基本语法)
+    - [8.5.2、应用实例](#852应用实例)
+    - [8.5.3、细节说明](#853细节说明)
+  - [8.6、切换用户](#86切换用户)
+    - [8.6.1、介绍](#861介绍)
+    - [8.6.2、基本语法](#862基本语法)
+    - [8.6.3、应用实例](#863应用实例)
+    - [8.6.4、细节说明](#864细节说明)
+  - [8.7、用户组](#87用户组)
+    - [8.7.1、介绍](#871介绍)
+    - [8.7.2、增加组](#872增加组)
+    - [8.7.3、案例演示](#873案例演示)
+    - [8.7.4、删除组](#874删除组)
+    - [8.7.5、案例演示](#875案例演示)
+  - [8.8、增加用户时直接加上组](#88增加用户时直接加上组)
+    - [8.8.1、指令(基本语法)](#881指令基本语法)
+    - [8.8.2、案例演示](#882案例演示)
+  - [8.9、修改用户的组](#89修改用户的组)
+    - [8.9.1、指令(基本语法)](#891指令基本语法)
+    - [8.9.2、案例演示](#892案例演示)
+  - [8.10、/etc/passwd 文件](#810etcpasswd-文件)
+  - [8.11、/etc/shadow 文件](#811etcshadow-文件)
+  - [8.12、/etc/group 文件](#812etcgroup-文件)
+- [第 9 章 实操篇 实用指令](#第-9-章-实操篇-实用指令)
+  - [9.1、指定运行级别](#91指定运行级别)
+  - [9.2、切换到指定运行级别的指令](#92切换到指定运行级别的指令)
+    - [9.2.1、基本语法](#921基本语法)
+    - [9.2.2、应用实例](#922应用实例)
+    - [9.2.3、面试题](#923面试题)
+    - [9.2.4、课堂练习:](#924课堂练习)
+  - [9.3、帮助指令](#93帮助指令)
+    - [9.3.1、介绍](#931介绍)
+    - [9.3.2、man 获得帮助信息](#932man-获得帮助信息)
+    - [9.3.3、help 指令](#933help-指令)
+    - [9.3.4、当一个指令不熟悉如何学习的建议](#934当一个指令不熟悉如何学习的建议)
+  - [9.4、文件目录类](#94文件目录类)
+    - [9.4.1、pwd 指令](#941pwd-指令)
+    - [9.4.2、ls 指令](#942ls-指令)
+    - [9.4.3、cd 指令](#943cd-指令)
+    - [9.4.4、mkdir 指令](#944mkdir-指令)
+    - [9.4.5、rmdir 指令](#945rmdir-指令)
+    - [9.4.6、touch 指令](#946touch-指令)
+    - [9.4.7、cp 指令[重要]](#947cp-指令重要)
+    - [9.4.8、rm 指令](#948rm-指令)
+    - [9.4.9、mv 指令](#949mv-指令)
+    - [9.4.10、cat 指令](#9410cat-指令)
+    - [9.4.11、more 指令](#9411more-指令)
+    - [9.4.12、less 指令](#9412less-指令)
+    - [9.4.13、》指令 和 》》指令](#9413指令-和-指令)
+    - [9.4.14、echo 指令](#9414echo-指令)
+    - [9.4.15、head 指令](#9415head-指令)
+    - [9.4.16、tail 指令](#9416tail-指令)
+    - [9.4.17、ln 指令](#9417ln-指令)
+    - [9.4.18、history 指令](#9418history-指令)
+  - [9.5、时间日期类](#95时间日期类)
+    - [9.5.1、date 指令-显示当前日期](#951date-指令-显示当前日期)
+    - [9.5.2、date 指令-设置日期](#952date-指令-设置日期)
+    - [9.5.3、cal 指令](#953cal-指令)
+  - [9.6、搜索查找类](#96搜索查找类)
+    - [9.6.1、find 指令](#961find-指令)
+    - [9.6.2、locate 指令](#962locate-指令)
+    - [9.6.3、grep 指令和 管道符号 |](#963grep-指令和-管道符号-)
+  - [9.7、压缩和解压类](#97压缩和解压类)
+    - [9.7.1、gzip/gunzip 指令](#971gzipgunzip-指令)
+    - [9.7.2、zip/unzip 指令](#972zipunzip-指令)
+    - [9.7.3、tar 指令](#973tar-指令)
+- [第 10 章	实操篇 组管理和权限管理](#第-10-章实操篇-组管理和权限管理)
+  - [10.1、Linux 组基本介绍](#101linux-组基本介绍)
+  - [10.2、文件/目录 所有者](#102文件目录-所有者)
+    - [10.2.1、ls	-ahl 指令](#1021ls-ahl-指令)
+    - [10.2.2、chown 指令](#1022chown-指令)
+  - [10.3、组的创建](#103组的创建)
+    - [10.3.1、groupadd 指令](#1031groupadd-指令)
+  - [10.4、文件/目录 所在组](#104文件目录-所在组)
+    - [10.4.1、ls –ahl 指令](#1041ls-ahl-指令)
+    - [10.4.2、chgrp 指令](#1042chgrp-指令)
+  - [10.5、其它组](#105其它组)
+  - [10.6、改变用户所在组](#106改变用户所在组)
+    - [10.6.1、usermod 指令](#1061usermod-指令)
+  - [10.7、权限的基本介绍](#107权限的基本介绍)
+  - [10.8、rwx 权限详解](#108rwx-权限详解)
+    - [10.8.1、rwx 作用到文件](#1081rwx-作用到文件)
+    - [10.8.2、rwx 作用到目录](#1082rwx-作用到目录)
+  - [10.9、文件及目录权限实际案例](#109文件及目录权限实际案例)
+  - [10.10、修改权限](#1010修改权限)
+    - [10.10.1、chmod 指令](#10101chmod-指令)
+    - [10.10.3、第二种方式：通过数字变更权限](#10103第二种方式通过数字变更权限)
+  - [10.11、修改文件所有者](#1011修改文件所有者)
+    - [10.11.1、chown 指令](#10111chown-指令)
+  - [10.12、修改文件所在组](#1012修改文件所在组)
+    - [10.12.1、chgrp 指令](#10121chgrp-指令)
+    - [10.12.2、最佳实践-警察和土匪游戏](#10122最佳实践-警察和土匪游戏)
+    - [10.12.3、课后练习1](#10123课后练习1)
+    - [10.12.4、课后练习2](#10124课后练习2)
+- [第 11 章	实操篇 crond 任务调度](#第-11-章实操篇-crond-任务调度)
+  - [11.1、原理示意图](#111原理示意图)
+  - [11.2、概述](#112概述)
+  - [11.3、crontab 指令](#113crontab-指令)
+  - [11.4、快速入门](#114快速入门)
+    - [11.4.1、任务的要求](#1141任务的要求)
+    - [11.4.2、步骤如下](#1142步骤如下)
+    - [11.4.3、参数细节说明](#1143参数细节说明)
+  - [11.5、任务调度的几个应用实例](#115任务调度的几个应用实例)
+    - [11.5.1、案例 1：](#1151案例-1)
+    - [11.5.2、案例 2：](#1152案例-2)
+    - [11.5.3、案例 3:](#1153案例-3)
+  - [11.6、crond 指令:](#116crond-指令)
+- [第 12 章 实操篇 Linux 磁盘分区、挂载](#第-12-章-实操篇-linux-磁盘分区挂载)
+  - [12.1、分区基础知识](#121分区基础知识)
+    - [12.1.1、分区的方式：](#1211分区的方式)
+    - [12.1.2、windows 下的磁盘分区](#1212windows-下的磁盘分区)
+  - [12.2、Linux 分区](#122linux-分区)
+    - [12.2.1、原理介绍](#1221原理介绍)
+    - [12.2.2、硬盘说明](#1222硬盘说明)
+    - [12.2.3、使用lsblk 指令查看当前系统的分区情况](#1223使用lsblk-指令查看当前系统的分区情况)
+  - [12.3、挂载的经典案例](#123挂载的经典案例)
+    - [12.3.1、如何增加一块硬盘](#1231如何增加一块硬盘)
+  - [12.4、具体的操作步骤整理](#124具体的操作步骤整理)
+    - [12.4.1、虚拟机增加硬盘步骤 1](#1241虚拟机增加硬盘步骤-1)
+    - [12.4.2、虚拟机增加硬盘步骤 2](#1242虚拟机增加硬盘步骤-2)
+    - [12.4.3、虚拟机增加硬盘步骤 3](#1243虚拟机增加硬盘步骤-3)
+    - [12.4.4、虚拟机增加硬盘步骤 4](#1244虚拟机增加硬盘步骤-4)
+    - [12.4.5、虚拟机增加硬盘步骤 5](#1245虚拟机增加硬盘步骤-5)
+  - [12.5、磁盘情况查询](#125磁盘情况查询)
+    - [12.5.1、df 指令](#1251df-指令)
+    - [12.5.2、du 指令](#1252du-指令)
+  - [12.6、磁盘情况-工作实用指令](#126磁盘情况-工作实用指令)
+- [第 13 章 实操篇 网络配置](#第-13-章-实操篇-网络配置)
+  - [13.1、Linux 网络配置原理图(含虚拟机)](#131linux-网络配置原理图含虚拟机)
+  - [13.2、查看网络IP 和网关](#132查看网络ip-和网关)
+    - [13.2.1、查看虚拟网络编辑器](#1321查看虚拟网络编辑器)
+    - [13.2.2、修改ip 地址(修改虚拟网络的ip)](#1322修改ip-地址修改虚拟网络的ip)
+    - [13.2.3、查看网关](#1323查看网关)
+    - [13.2.4、查看windows 环境的中VMnet8 网络配置](#1324查看windows-环境的中vmnet8-网络配置)
+  - [13.3、ping 测试主机之间网络连通](#133ping-测试主机之间网络连通)
+  - [13.4、linux 网络环境配置](#134linux-网络环境配置)
+    - [13.4.1、第一种方法(自动获取)](#1341第一种方法自动获取)
+    - [13.4.2、第二种方法(指定固定的ip)](#1342第二种方法指定固定的ip)
+- [第 14 章 实操篇 进程管理](#第-14-章-实操篇-进程管理)
+  - [14.1、进程的基本介绍](#141进程的基本介绍)
+  - [14.2、显示系统执行的进程](#142显示系统执行的进程)
+    - [14.2.1、ps -aux 指令：](#1421ps--aux-指令)
+  - [14.3、终止进程](#143终止进程)
+    - [14.3.1、kill 和 killall 指令](#1431kill-和-killall-指令)
+  - [14.4、查看进程树](#144查看进程树)
+    - [14.4.1、pstree 指令](#1441pstree-指令)
+  - [14.5、服务(Service)管理](#145服务service管理)
+    - [14.5.1、介绍:](#1451介绍)
+    - [14.5.2、service 管理指令：](#1452service-管理指令)
+    - [14.5.4、细节讨论：](#1454细节讨论)
+    - [14.5.5、查看服务名:](#1455查看服务名)
+    - [14.5.6、服务的运行级别(runlevel):](#1456服务的运行级别runlevel)
+    - [14.5.7、开机的流程说明](#1457开机的流程说明)
+    - [14.5.8、chkconfig 指令](#1458chkconfig-指令)
+    - [14.5.9、应用实例：](#1459应用实例)
+    - [14.5.10、使用细节](#14510使用细节)
+  - [14.6、动态监控进程](#146动态监控进程)
+    - [14.6.1、top 指令：](#1461top-指令)
+    - [14.6.5、netstat 指令(重要)](#1465netstat-指令重要)
+- [第 15 章 实操篇 RPM 和 YUM](#第-15-章-实操篇-rpm-和-yum)
+  - [15.1、rpm 包的管理](#151rpm-包的管理)
+    - [15.1.1、介绍：](#1511介绍)
+    - [15.1.2、rpm 包的简单查询指令：](#1512rpm-包的简单查询指令)
+    - [15.1.3、rpm 包名基本格式：](#1513rpm-包名基本格式)
+    - [15.1.4、rpm 包的其它查询指令：](#1514rpm-包的其它查询指令)
+    - [15.1.5、卸载rpm 包：](#1515卸载rpm-包)
+    - [15.1.6、安装rpm 包：](#1516安装rpm-包)
+  - [15.2、yum](#152yum)
+    - [15.2.1、Yum 指令：](#1521yum-指令)
+
+
+
+
+# 第 1 章 Linux 开山篇
 
 ## 本套 Linux 课程的内容介绍
 
@@ -2602,838 +2849,3 @@ rpm -qf /etc/passwd rpm -qf /root/install.log
 
 ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.231.jpeg)
 
-
-第 16 章 JavaEE 定制篇 搭建 JavaEE 环境
-
-1. 概述
-   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)示意图：
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.232.jpeg)
-
-如果需要在 Linux 下进行 JavaEE 的开发，我们需要安装如下软件
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.233.jpeg)
-
-
-1. 安装 JDK
-   1. 看老师演示，一会整理笔记：
-   1. 安装步骤
-
-0) 先将软件通过 xftp5 上传到 /opt 下
-0) 解压缩到 /opt
-
-0) 配置环境变量的配置文件 vim	/etc/profile
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.234.jpeg)
-
-JAVA\_HOME=/opt/jdk1.7.0\_79 PATH=/opt/jdk1.7.0\_79/bin:$PATH export JAVA\_HOME PATH
-
-0) 需要注销用户，环境变量才能生效。
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)如果是在 3 运行级别， logout
-
-如果是在 5 运行级别，
-
-0) ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.235.jpeg)在任何目录下就可以使用 java 和 javac
-   1. 测试是否安装成功
-
-编写一个简单的 Hello.java 输出"hello,world!"
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.236.jpeg)
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.237.jpeg)
-
-1. 安装 tomcat
-
-1. 步骤 :
-   1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.238.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)解压缩到/opt
-   1) 启动 tomcat	./startup.sh
-
-先进入到 tomcat 的 bin 目录
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.239.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.240.jpeg)
-
-
-使用 Linux 本地的浏览是可以访问到 tomcat
-
-
-1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.241.jpeg)开放端口 8080 ,这样外网才能访问到 tomcat vim /etc/sysconfig/iptables
-
-
-
-
-
-
-
-
-
-
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)重启防火墙
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.242.jpeg)
-
-
-
-1. 测试是否安装成功：
-
-在 windows、Linux 下 访问	http://linuxip:8080
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.243.jpeg)
-
-
-
-
-1. Eclipse 的安装
-   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)步骤 :
-      1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.244.jpeg)解压缩到/opt
-      1) 启动 eclipse，配置 jre 和 server
-
-启动方法 1: 创建一个快捷方式
-
-启动方式 2: 进入到 eclipse 解压后的文件夹，然后执行	./eclipse	即可
-
-1) 编写 jsp 页面,并测试成功!
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.245.jpeg)
-
-
-
-1. mysql 的安装和配置
-
-1. 安装的步骤和文档
-
-[说明: 因为 mysql 安装时间很长，所以在授课时，可以考虑最先安装 mysql]
-
-相关的安装软件在课件
-
-注意: 先删除一下 Mysql 相关的软件..
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.246.png)
-
-尚硅谷centos6.8下安装mysql.docx.zip
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)说明
-
-请同学们一定要按照老师的文档一步一步的安装成功。
-
-第 17 章 大数据定制篇 Shell 编程
-
-1. 为什么要学习Shell 编程
-
-1) Linux 运维工程师在进行服务器集群管理时，需要编写 Shell 程序来进行服务器管理。
-1) 对于 JavaEE 和 Python 程序员来说，工作的需要，你的老大会要求你编写一些 Shell 脚本进行程序或者是服务器的维护，比如编写一个定时备份数据库的脚本。
-1) 对于大数据程序员来说，需要编写 Shell 程序来管理集群。
-
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)Shell 是什么
-
-画一个示意图：
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.247.jpeg)
-
-Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序，用户可以用 Shell 来启动、挂起、停止甚至是编写一些程序.
-
-1. shell 编程快速入门-Shell 脚本的执行方式
-
-1. 脚本格式要求
-   1) 脚本以#!/bin/bash 开头
-
-1) 脚本需要有可执行权限
-1. 编写第一个Shell 脚本
-- 需求说明
-
-创建一个 Shell 脚本，输出 hello world!
-
-看案例：
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.248.jpeg)
-
-1. 脚本的常用执行方式
-- ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)方式 1(输入脚本的绝对路径或相对路径)
-  1) 首先要赋予 helloworld.sh 脚本的+x 权限
-  1) 执行脚本
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.249.jpeg)
-
-- 方式 2(sh+脚本)，不推荐
-
-说明：不用赋予脚本+x 权限，直接执行即可
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.250.jpeg)
-
-
-
-1. shell 的变量
-
-1. Shell 的变量的介绍
-   1. Linux Shell 中的变量分为，系统变量和用户自定义变量。
-   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.251.jpeg)系统变量：$HOME、$PWD、$SHELL、$USER 等等比如： echo $HOME	等等..
-
-
-
-
-
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)显示当前 shell 中所有变量：set
-
-
-1. shell 变量的定义
-- 基本语法
-
-1)定义变量：变量=值 2)撤销变量：unset 变量
-
-\3) 声明静态变量：readonly 变量，注意：不能 unset
-
-- 快速入门
-
-案例 1：定义变量 A
-
-案例 2：撤销变量 A
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.252.jpeg)
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.253.jpeg)案例 3：声明静态的变量 B=2，不能 unset
-
-案例 4：可把变量提升为全局环境变量，可供其他 shell 程序使用【一会举例。】
-
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)•定义变量的规则
-1) 变量名称可以由字母、数字和下划线组成，但是不能以数字开头。
-1) 等号两侧不能有空格
-1) 变量名称一般习惯为大写
-
-
-1. •将命令的返回值赋给变量（重点）
-1. A=`ls -la` 反引号，运行里面的命令，并把结果返回给变量 A
-1. A=$(ls -la) 等价于反引号
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.254.jpeg)
-
-
-1. 设置环境变量
-   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)基本语法
-      1) export 变量名=变量值 （功能描述：将 shell 变量输出为环境变量）
-      1) source 配置文件	（功能描述：让修改后的配置信息立即生效）
-      1) echo $变量名	（功能描述：查询环境变量的值）
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.255.jpeg)
-
-1. 快速入门
-
-1) 在/etc/profile 文件中定义 TOMCAT\_HOME 环境变量
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.256.jpeg)
-
-
-1) 查看环境变量 TOMCAT\_HOME 的值
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)echo	$TOMCAT\_HOME
-
-1) 在另外一个 shell 程序中使用 TOMCAT\_HOME
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.257.jpeg)
-
-
-
-注意：在输出 TOMCAT\_HOME 环境变量前，需要让其生效
-
-source /etc/profile
-
-
-
-1. 位置参数变量
-   1. 介绍
-
-当我们执行一个 shell 脚本时，如果希望获取到命令行的参数信息，就可以使用到位置参数变量，比如 ： ./myshell.sh 100 200 , 这个就是一个执行 shell 的命令行，可以在 myshell 脚本中获取到参数信息
-
-1. 基本语法
-
-$n （功能描述：n 为数字，$0 代表命令本身，$1-$9 代表第一到第九个参数，十以上的参数，十以上的参数需要用大括号包含，如${10}）
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)$\* （功能描述：这个变量代表命令行中所有的参数，$\*把所有的参数看成一个整体）
-
-$@（功能描述：这个变量也代表命令行中所有的参数，不过$@把每个参数区分对待）
-
-$#（功能描述：这个变量代表命令行中所有参数的个数）
-
-1. 位置参数变量应用实例
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.258.jpeg)案例：编写一个 shell 脚本 positionPara.sh ， 在脚本中获取到命令行的各个参数信息
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.259.jpeg)
-
-
-
-1. 预定义变量
-   1. 基本介绍
-
-就是 shell 设计者事先已经定义好的变量，可以直接在 shell 脚本中使用
-
-1. 基本语法
-
-$$ （功能描述：当前进程的进程号（PID））
-
-$! （功能描述：后台运行的最后一个进程的进程号（PID））
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)$？ （功能描述：最后一次执行的命令的返回状态。如果这个变量的值为 0，证明上一个命令正确执行；如果这个变量的值为非 0（具体是哪个数，由命令自己来决定），则证明上一个命令执行不正确了。）
-
-1. 应用实例
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.260.jpeg)在一个 shell 脚本中简单使用一下预定义变量
-
-1. 运算符
-   1. 基本介绍
-
-学习如何在 shell 中进行各种运算操作。
-
-1. 基本语法
-
-\1) “$((运算式))”或“$[运算式]”
-
-2) expr m + n
-
-注意 expr 运算符间要有空格
-
-2) expr m - n
-2) expr	\\*, /, %	乘，除，取余
-- 应用实例
-
-案例 1：计算（2+3）X4 的值
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.261.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)1) $((运算式))
-
-2) $[运算式]
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.262.jpeg)
-
-2) expr
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.263.jpeg)
-
-案例 2：请求出命令行的两个参数[整数]的和
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.264.jpeg)
-
-
-1. 条件判断
-
-判断语句
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)•基本语法
-
-[ condition ]（注意 condition 前后要有空格）
-
-#非空返回 true，可使用$?验证（0 为 true，>1 为 false）
-
-1. •应用实例
-
-[ atguigu ]		返回 true []	返回 false
-
-[condition] && echo OK || echo notok	条件满足，执行后面的语句
-
-
-1. •常用判断条件
-   1) 两个整数的比较
-
-= 字符串比较
-
--lt 小于
-
--le 小于等于
-
--eq 等于
-
--gt 大于
-
--ge 大于等于
-
--ne 不等于
-
-1) 按照文件权限进行判断
-
--r 有读的权限 [ -r 文件 ]
-
--w 有写的权限
-
--x 有执行的权限
-
-1) 按照文件类型进行判断
-
--f 文件存在并且是一个常规的文件
-
--e 文件存在
-
--d 文件存在并是一个目录
-
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)应用实例
-
-案例 1："ok"是否等于"ok"
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.265.jpeg)判断语句：
-
-案例 2：23 是否大于等于 22
-
-判断语句：
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.266.jpeg)
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.267.jpeg)案例 3：/root/install.log 目录中的文件是否存在判断语句：
-
-
-
-
-
-
-
-
-
-
-1. 流程控制
-
-1. if 判断
-
-   0. 基本语法
-
-if [ 条件判断式 ];then
-
-程序
-
-fi
-
-或者
-
-if [ 条件判断式 ] then
-
-程序
-
-elif [条件判断式]
-
-then
-
-程序
-
-fi
-
-注意事项：（1）[ 条件判断式 ]，中括号和条件判断式之间必须有空格 (2) 推荐使用第二种方式
-
-0. 应用实例
-
-案例：请编写一个 shell 程序，如果输入的参数，大于等于 60，则输出 "及格了"，如果小于 60,
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)则输出 "不及格"
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.268.jpeg)
-
-
-1. case 语句
-
-   0. 基本语法
-
-case $变量名 in "值 1"）
-
-如果变量的值等于值 1，则执行程序 1
-
-;;
-
-"值 2"）
-
-如果变量的值等于值 2，则执行程序 2
-
-;;
-
-…省略其他分支…
-
-\*）
-
-如果变量的值都不是以上的值，则执行此程序
-
-;;
-
-esac
-
-0. 应用实例
-
-案例 1 ：当命令行参数是 1 时，输出 "周一", 是 2 时，就输出"周二"， 其它情况输出	"other"
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.269.jpeg)
-
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)for 循环
-
-   0. 基本语法 1
-
-**for** 变量 **in** 值 **1** 值 **2** 值 **3**… **do**
-
-程序
-
-**done**
-
-0. 应用实例
-
-案例 1 ：打印命令行输入的参数	【会使用到$\* $@】
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.270.jpeg)
-
-
-0. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)基本语法 2
-
-**for ((** 初始值**;**循环控制条件**;**变量变化 **)) do**
-
-程序
-
-**done**
-
-0. 应用实例
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.271.jpeg)案例 1 ：从 1 加到 100 的值输出显示
-
-
-
-1. while 循环
-
-   0. 基本语法 1
-
-while [ 条件判断式 ] do
-
-程序
-
-done
-
-0. 应用实例
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.272.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)案例 1 ：从命令行输入一个数 n，统计从 1+..+ n 的值是多少？
-
-
-
-
-1. read 读取控制台输入
-
-1. 基本语法
-
-read(选项)(参数)
-
-选项：
-
--p：指定读取值时的提示符；
-
--t：指定读取值时等待的时间（秒），如果没有在指定的时间内输入，就不再等待了。。参数
-
-变量：指定读取值的变量名
-
-1. 应用实例
-
-案例 1：读取控制台输入一个 num 值
-
-案例 2：读取控制台输入一个 num 值，在 10 秒内输入。
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.273.jpeg)
-
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)函数
-   1. 函数介绍
-
-shell 编程和其它编程语言一样，有系统函数，也可以自定义函数。系统函数中，我们这里就介绍两个。
-
-1. 系统函数
-
-   0. basename 基本语法
-
-功能：返回完整路径最后 / 的部分，常用于获取文件名
-
-basename [pathname] [suffix]
-
-basename [string] [suffix]	（功能描述：basename 命令会删掉所有的前缀包括最后一个（‘/’） 字符，然后将字符串显示出来。
-
-选项：
-
-suffix 为后缀，如果 suffix 被指定了，basename 会将 pathname 或 string 中的 suffix 去掉。
-
-
-0. dirname 基本语法
-
-功能：返回完整路径最后 / 的前面的部分，常用于返回路径部分
-
-dirname 文件绝对路径 （功能描述：从给定的包含绝对路径的文件名中去除文件名（非目录的部分），然后返回剩下的路径（目录的部分））
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)•应用实例
-
-案例 1：请返回 /home/aaa/test.txt 的 "test.txt" 部分
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.274.jpeg)
-
-案例 2：请返回 /home/aaa/test.txt 的 /home/aaa
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.275.jpeg)
-
-1. 自定义函数
-
-   0. 基本语法
-
-[ function ] funname[()]
-
-{
-
-Action; [return int;]
-
-}
-
-
-调用直接写函数名：funname	[值]
-
-0. 应用实例
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.276.jpeg)案例 1：计算输入两个参数的和（read）， getSum
-
-1. Shell 编程综合案例
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)需求分析
-
-1) 每天凌晨 2:10 备份 数据库 atguiguDB 到 /data/backup/db 2)备份开始和备份结束能够给出相应的提示信息
-3) 备份后的文件要求以备份时间为文件名，并打包成 .tar.gz 的形式，比如：
-
-2018-03-12\_230201.tar.gz
-
-3) 在备份的同时，检查是否有 10  天前备份的数据库文件，如果有就将其删除。
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.277.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)编写一个 shell 脚本。思路分析：
-
-代码实现：
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.278.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.279.jpeg)
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.280.jpeg)
-
-
-
-第 18 章 Python 定制篇 开发平台 Ubuntu
-
-1. Ubuntu 的介绍
-
-Ubuntu（友帮拓、优般图、乌班图）是一个以[桌面](https://baike.baidu.com/item/%E6%A1%8C%E9%9D%A2)应用为主的开源 GNU/Linux 操作系统，Ubuntu 是基于 GNU/[Linux](https://baike.baidu.com/item/Linux)，支持 x86、amd64（即 x64）和 [ppc ](https://baike.baidu.com/item/ppc/150)架构，由全球化的专业开发团队（Canonical Ltd） 打造的。
-
-专业的 Python 开发者一般会选择 Ubuntu 这款 Linux 系统作为生产平台. 温馨提示：
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)Ubuntu 和 Centos 都是基于 GNU/Linux 内核的，因此基本使用和 Centos 是几乎一样的，它们的各种指令可以通用，同学们在学习和使用 Ubuntu 的过程中，会发现各种操作指令在前面学习 CentOS 都使用过。只是界面和预安装的软件有所差别。
-
-Ubuntu 下载地址：[http://cn.ubuntu.com/download](http://cn.ubuntu.com/download/)[/](http://cn.ubuntu.com/download/)
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.281.jpeg)
-
-1. Ubuntu 的安装
-   1. 安装的步骤
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.282.png)
-
-尚硅谷Python安装Ubuntu.zip
-
-1. 设置Ubuntu 支持中文
-
-默认安装的 ubuntu 中只有英文语言，因此是不能显示汉字的。要正确显示汉字，需要安装中文语言包。
-
-安装中文支持步骤：
-
-1. 单击左侧图标栏打开 System Settings（系统设置）菜单，点击打开 Language Support（语言支持）选项卡。
-1. 点击 Install / Remove Languages，在弹出的选项卡中下拉找到 Chinese(Simplified)，即中文简体， 在后面的选项框中打勾。然后点击 Apply Changes 提交，系统会自动联网下载中文语言包。（保证ubuntu 是联网的）。
-1. 这时“汉语（中国）”在最后一位因为当前第一位是”English”，所以默认显示都是英文。我们如果希望默认显示用中文，则应该将“汉语（中国）”设置为第一位。设置方法是拖动，鼠标单击“汉语（中国）”，当底色变化（表示选中了）后，按住鼠标左键不松手，向上拖动放置到第一位。
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)设置后不会即刻生效，需要下一次登录时才会生效。
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.283.jpeg)
-
-
-1. Ubuntu 的 roo 用户
-
-
-1. 介绍
-
-安装 ubuntu 成功后，都是普通用户权限，并没有最高 root 权限，如果需要使用 root 权限的时候， 通常都会在命令前面加上 sudo 。有的时候感觉很麻烦。
-
-我们一般使用su 命令来直接切换到root 用户的，但是如果没有给root 设置初始密码，就会抛出 su : Authentication failure 这样的问题。所以，我们只要给 root 用户设置一个初始密码就好了。
-
-1. 给root 用户设置密码并使用
-1) 输入 sudo passwd 命令，输入一般用户密码并设定 root 用户密码。
-1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)设定 root 密码成功后，输入 su 命令，并输入刚才设定的 root 密码，就可以切换成 root 了。提示符$代表一般用户，提示符#代表 root 用户。
-1) 输入 exit 命令，退出 root 并返回一般用户
-1) 以后就可以使用 root 用户了
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.284.jpeg)
-
-
-1. Ubuntu 下开发Python
-   1. 说明
-
-安装好 Ubuntu 后，默认就已经安装好 Python 的开发环境[Python2.7 和	Python3.5]。
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.285.jpeg)
-
-1. 在Ubuntu 下开发一个 Python 程序
-1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)vim hello.py	[编写 hello.py]
-
-提示：如果 Ubuntu 没有 vim	我们可以根据提示信息安装一个 vim apt install vim
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.286.jpeg)
-
-1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.287.jpeg)python3 hello.py	[运行 hello.py]
-
-
-第 19 章 Python 定制篇 apt 软件管理和远程登录
-
-1. apt 介绍
-
-apt 是 Advanced Packaging Tool 的简称，是一款安装包管理工具。在 Ubuntu 下，我们可以使用 apt
-
-命令可用于软件包的安装、删除、清理等，类似于 Windows 中的软件管理工具。
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.288.jpeg)unbuntu	软件管理的原理示意图：
-
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)Ubuntu 软件操作的相关命令
-
-sudo apt-get update	更新源
-
-sudo apt-get install package 安装包
-
-sudo apt-get remove package 删除包
-
-
-sudo apt-cache search package 搜索软件包
-
-sudo apt-cache show package	获取包的相关信息，如说明、大小、版本等
-
-sudo apt-get install package --reinstall	重新安装包
-
-
-
-sudo apt-get -f install	修复安装
-
-sudo apt-get remove package --purge 删除包，包括配置文件等
-
-sudo apt-get build-dep package 安装相关的编译环境
-
-
-sudo apt-get upgrade 更新已安装的包
-
-sudo apt-get dist-upgrade 升级系统
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)sudo apt-cache depends package 了解使用该包依赖那些包sudo apt-cache rdepends package 查看该包被哪些包依赖sudo apt-get source package	下载该包的源代码
-
-1. 更新 Ubuntu 软件下载地址
-   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.289.jpeg)原理示意图
-   1. 寻找国内镜像源
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)https://mirrors.tuna.tsinghua.edu.cn/
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.290.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.291.jpeg)所谓的镜像源：可以理解为提供下载软件的地方，比如 Android 手机上可以下载软件的安卓市场；iOS 手机上可以下载软件的 AppStore
-
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.292.jpeg)
-
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)备份Ubuntu 默认的源地址
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.293.jpeg)sudo cp /etc/apt/sources.list /etc/apt/sources.list.backup
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.294.jpeg)
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)更新源服务器列表
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.295.jpeg)
-
-
-1. Ubuntu 软件安装，卸载的最佳实践
-   1. 案例说明：使用apt 完成安装和卸载vim 软件，并查询 vim 软件的信息：
-
-sudo apt-get remove vim
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.296.jpeg)
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)sudo apt-get install vim
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.297.jpeg)
-
-sudo apt-cache show vim
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.298.jpeg)
-
-
-
-
-
-1. 使用 ssh 远程登录Ubuntu
-   1. ssh 介绍
-
-SSH 为 Secure Shell 的缩写，由 IETF 的网络工作小组（Network Working Group）所制定；SSH 为建立在应用层和传输层基础上的安全协议。
-
-SSH 是目前较可靠，专为远程登录会话和其他网络服务提供安全性的协议。常用于远程登录，以及用户之间进行资料拷贝。几乎所有 UNIX 平台—包括 HP-UX、Linux、AIX、Solaris、Digital UNIX、Irix，以及其他平台，都可运行 SSH。
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)使用 SSH 服务，需要安装相应的服务器和客户端。客户端和服务器的关系：如果，A 机器想被 B
-
-机器远程控制，那么，A 机器需要安装 SSH 服务器，B 机器需要安装 SSH 客户端。
-
-和 CentOS 不一样，Ubuntu 默认没有安装 SSHD 服务，因此，我们不能进行远程登录。
-
-1. 原理示意图：
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.299.jpeg)
-
-
-1. 使用 ssh 远程登录Ubuntu
-   1. 安装SSH 和启用
-
-sudo apt-get install openssh-server
-
-执行上面指令后，在当前这台 Linux 上就安装了 SSH 服务端和客户端。
-
-service sshd restart
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)执行上面的指令，就启动了 sshd 服务。会监听端口 22
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.300.jpeg)
-
-
-1. 在Windows 使用XShell5/XFTP5 登录 Ubuntu
-
-前面我们已经安装了 XShell5，直接使用即可。
-
-注意：使用 atguigu 用户登录，需要的时候再 su - 切换成 root 用户
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.301.jpeg)
-
-
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)从linux 系统客户机远程登陆linux 系统服务机
-
-首先，我们需要在 linux 的系统客户机也要安装 openssh-server
-
-
-0. 基本语法：
-
-ssh 用户名@IP
-
-例如：ssh <atguigu@192.168.188.131>
-
-使用 ssh 访问，如访问出现错误。可查看是否有该文件 ～/.ssh/known\_ssh 尝试删除该文件解决。
-
-0. 登出
-
-登出命令：exit 或者 logout
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/pic/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)
