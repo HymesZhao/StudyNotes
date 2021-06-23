@@ -2,7 +2,7 @@
 
 ## 本套 Linux 课程的内容介绍
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.013.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.014.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.013.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.014.jpeg)
 
 ## 1.2、Linux 的学习方向
 
@@ -17,7 +17,7 @@
 此领域是传统 linux 应用最薄弱的环节，传统 linux 由于界面简单、操作复杂、应用软件少的缺点， 一直被 windows 所压制，但近些年来随着 ubuntu、fedora [fɪˈdɔ:rə]  等优秀桌面环境的兴起，同时各大硬件厂商对其支持的加大，linux 在个人桌面领域的占有率在逐渐的提高。
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.018.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.018.jpeg)
 
 ### 1.3.2、服务器应用领域
 
@@ -71,38 +71,38 @@ linux 是一个开源、免费的操作系统，其稳定性、安全性、处�
    
    3)Linux 创始人-linux 林纳斯
    
-    ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.019.jpeg)
+    ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.019.jpeg)
    4) Linux 的吉祥物企鹅 tux
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.020.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.020.jpeg)
 
 5) Linux 的主要的发行版
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.021.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.021.jpeg)
 
 6) 目前主要的操作系统有
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.022.jpeg)windows, android ，车载系统,linux 等。
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.022.jpeg)windows, android ，车载系统,linux 等。
 
 ## 2.2、unix 是怎么来的
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.023.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.023.jpeg)
 
 ## 2.3、Linux 是怎么来的
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.024.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.024.jpeg)
 
 ## 2.4、linux 和 unix 关系一览图
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.025.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.025.jpeg)
 
 ## 2.5、linux 和 Windows 比较
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.027.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.027.jpeg)
 
 # 第 3 章 基础篇 VM 和 Linux 系统(CentOS)安装
 
@@ -116,14 +116,14 @@ linux 是一个开源、免费的操作系统，其稳定性、安全性、处�
 
 3)原理示意图，这里我们画图说明一下 VM 和 CentOS 的关系。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.030.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.030.jpeg)
 
 ## 3.2、vm 软件和CentOS 的安装软件
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.031.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.031.jpeg)
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.032.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.032.jpeg)
 
 ## 3.3、VM 安装的步骤
 
@@ -138,7 +138,7 @@ linux 是一个开源、免费的操作系统，其稳定性、安全性、处�
 
 这里在配置网络连接时，有三种形式，需要大家伙注意 ：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.033.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.033.jpeg)
 
 2) 开始安装系统(CentOS6.8)
 3) 看老师安装的演示过程。
@@ -148,13 +148,13 @@ linux 是一个开源、免费的操作系统，其稳定性、安全性、处�
 1) 终端的使用，点击鼠标右键，即可选择打开终端
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.034.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.034.jpeg)
 
 2) 配置网络，可以上网。
 
 点击上面右侧的；两个计算机图片，选择启用 eth0,即可成功连接到网络，就可以上网。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.035.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.035.jpeg)
 
 
 
@@ -167,7 +167,7 @@ linux 是一个开源、免费的操作系统，其稳定性、安全性、处�
 1) 示意图
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.036.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.036.jpeg)
 
 ## 3.7、vmtools 的安装和使用
 
@@ -192,7 +192,7 @@ linux 是一个开源、免费的操作系统，其稳定性、安全性、处�
 
 ### 3.7.3、安装vmtools 的课堂练习
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.037.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.037.jpeg)
 
 # 第 4 章 基础篇 Linux 的目录结构
 
@@ -202,17 +202,17 @@ linux 的文件系统是采用级层式的树状目录结构，在此结构中�
 
 深刻理解 linux 树状文件目录是非常重要的，这里我给大家说明一下。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.038.jpeg)记住一句经典的话：在 Linux 世界里，一切皆文件。
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.038.jpeg)记住一句经典的话：在 Linux 世界里，一切皆文件。
 
 ## 4.2、目录结构的具体介绍
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.039.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.039.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.040.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.040.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.041.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.041.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.042.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.042.jpeg)
 
 ## 4.3、Linux 目录总结一下
 
@@ -232,7 +232,7 @@ linux 的文件系统是采用级层式的树状目录结构，在此结构中�
 
 ### 5.1.1、示意图
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.043.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.043.jpeg)
 
 ### 5.1.2、说明
 
@@ -272,12 +272,12 @@ Linux 启用了 SSHD 服务，该服务会监听 22 号端口。
 
 ### 5.3.2、XShell5 的关键配置
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.044.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.044.jpeg)
 
 ### 5.3.3、XShel5 远程登录到Linux 后，就可以使用指令来操作Linux 系统
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.045.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.045.jpeg)
 
 ## 5.4、远程上传下载文件 Xftp5
 
@@ -285,7 +285,7 @@ Linux 启用了 SSHD 服务，该服务会监听 22 号端口。
 
 是一个基于 [windows ](https://baike.baidu.com/item/windows)平台的功能强大的 [SFTP](https://baike.baidu.com/item/SFTP)、[FTP ](https://baike.baidu.com/item/FTP)文件传输软件。使用了 Xftp 以后，windows 用户能安全地在 [UNIX](https://baike.baidu.com/item/UNIX)/[Linux ](https://baike.baidu.com/item/Linux)和 Windows PC 之间传输文件。(示意图)。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.046.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.046.jpeg)
 
 
 
@@ -300,7 +300,7 @@ Linux 启用了 SSHD 服务，该服务会监听 22 号端口。
 ### 5.4.3、Xftp5 的配置和使用
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.047.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.047.jpeg)
 
 
 
@@ -308,18 +308,18 @@ Linux 启用了 SSHD 服务，该服务会监听 22 号端口。
 连接到 Linux 的界面如下,就说明已经成功的远程连接到 Linux
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.048.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.048.jpeg)
 
 ### 5.4.4、如何解决XFTP5 中文乱码的问题
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.049.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.049.jpeg)
 
 说明：如上图配置后，还需要刷新一下，就可以解决中文乱码
 
 ## 5.5、Xftp5 和 XShell5 的使用
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.050.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.050.jpeg)
 
 # 第 6 章 实操篇 vi 和 vim 编辑器
 
@@ -355,14 +355,14 @@ Vim 具有程序编辑的能力，可以看做是 Vi 的增强版本，可以主
 使用	vim 开发一个 Hello.java 程序,  保存.步骤说明和演示
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.051.png)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.051.png)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.052.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.052.jpeg)
 
 ## 6.4、vi 和 vim	三种模式的相互转化图
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.053.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.053.jpeg)
 
 ## 6.5、快捷键的使用案例
 
@@ -389,13 +389,13 @@ Vim 具有程序编辑的能力，可以看做是 Vi 的增强版本，可以主
 
 ## 6.6、vim 和 vi 的快捷键键盘一览图
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.054.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.054.jpeg)
 
 
 
 ## 6.7、vi 和 vim 课堂练习
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.055.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.055.jpeg)
 
 # 第 7 章 实操篇 开机、重启和用户登录注销
 
@@ -434,7 +434,7 @@ syn ：	把内存的数据同步到磁盘
 2) 在提示符下输入 logout 即可注销用户
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.056.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.056.jpeg)
 
 ### 7.2.2、使用细节
 
@@ -448,7 +448,7 @@ syn ：	把内存的数据同步到磁盘
 
 给大家画一个示意图，帮助大家理解用户管理的规则。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.057.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.057.jpeg)
 
 说明
 
@@ -467,7 +467,7 @@ syn ：	把内存的数据同步到磁盘
 添加一个用户 xm.
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.058.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.058.jpeg)
 
 
 特别说明：
@@ -479,7 +479,7 @@ cd	表示 change directory, 切换目录.
 1) 当创建用户成功后，会自动的创建和用户同名的家目录
 2) 也可以通过 useradd -d	指定目录	新的用户名，给新创建的用户指定家目录
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.059.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.059.jpeg)
 
 ## 8.3、给用户指定或者修改密码
 
@@ -490,7 +490,7 @@ passwd	用户名应用案例
 1) 给 xiaoming 指定密码
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.060.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.060.jpeg)
 
 ## 8.4、删除用户
 
@@ -502,10 +502,10 @@ userdel	用户名
 
 1) 删除用户 xm，但是要保留家目录
 
- ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.061.jpeg)
+ ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.061.jpeg)
 2) 删除用户 xh 以及用户主目录
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.062.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.062.jpeg)
 
 ### 8.4.3、思考题
 
@@ -521,7 +521,7 @@ id	用户名
 
 案例 1：请查询 root	信息
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.063.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.063.jpeg)
 
 ### 8.5.3、细节说明
 
@@ -539,7 +539,7 @@ su	–	切换用户名
 
 ### 8.6.3、应用实例
 
-1) 创建一个用户 zf, 指定密码，然后切换到 zf![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.064.jpeg)
+1) 创建一个用户 zf, 指定密码，然后切换到 zf![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.064.jpeg)
 
 
 
@@ -560,7 +560,7 @@ groupadd 组名
 
 ### 8.7.3、案例演示
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.065.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.065.jpeg)
 
 ### 8.7.4、删除组 
 
@@ -570,7 +570,7 @@ groupadd 组名
 
 ### 8.7.5、案例演示
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.066.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.066.jpeg)
 
 
 
@@ -588,7 +588,7 @@ groupadd 组名
 
 步骤看演示：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.067.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.067.jpeg)
 
 ## 8.9、修改用户的组
 
@@ -600,7 +600,7 @@ usermod	-g 用户组 用户名
 
 创建一个 shaolin 组，让将 zwj 用户修改到 shaolin
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.068.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.068.jpeg)
 
 
 
@@ -612,7 +612,7 @@ usermod	-g 用户组 用户名
 
 每行的含义：用户名:口令:用户标识号:组标识号:注释性描述:主目录:登录 Shell
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.069.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.069.jpeg)
 
 ## 8.11、/etc/shadow 文件
 
@@ -624,7 +624,7 @@ usermod	-g 用户组 用户名
 
 组(group)的配置文件，记录 Linux 包含的组的信息每行含义：组名:口令:组标识号:组内用户列表
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.070.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.070.jpeg)
 
 
 
@@ -655,7 +655,7 @@ usermod	-g 用户组 用户名
 
 运行级别的示意图：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.071.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.071.jpeg)
 
 
 
@@ -665,7 +665,7 @@ usermod	-g 用户组 用户名
 
 init [012356]
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.072.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.072.jpeg)
 
 ### 9.2.2、应用实例
 
@@ -716,7 +716,7 @@ man [命令或配置文件]（功能描述：获得帮助信息）
 
   案例：查看 ls 命令的帮助信息
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.073.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.073.jpeg)
 
 ### 9.3.3、help 指令
 
@@ -728,7 +728,7 @@ man [命令或配置文件]（功能描述：获得帮助信息）
 
   案例：查看 cd 命令的帮助信息
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.074.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.074.jpeg)
 
 ### 9.3.4、当一个指令不熟悉如何学习的建议
 
@@ -736,7 +736,7 @@ man [命令或配置文件]（功能描述：获得帮助信息）
 
 ​		虽然上面两个都可以来获取指令帮助，但是需要英语功底，如果英语不太好的，我还是推荐大家直接百度靠谱。 ifconfig
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.075.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.075.jpeg)
 
 ## 9.4、文件目录类
 
@@ -750,7 +750,7 @@ man [命令或配置文件]（功能描述：获得帮助信息）
 
   ​	案例：显示当前工作目录的绝对路径
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.076.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.076.jpeg)
 
 ### 9.4.2、ls 指令
 
@@ -768,10 +768,10 @@ man [命令或配置文件]（功能描述：获得帮助信息）
 
   案例:查看当前目录的所有内容信息
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.077.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.077.jpeg)
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.078.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.078.jpeg)
 
 ### 9.4.3、cd 指令
 
@@ -785,7 +785,7 @@ man [命令或配置文件]（功能描述：获得帮助信息）
 
   如何理解绝对路径和相对路径：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.079.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.079.jpeg)
 
 ​		cd ~ 或者 cd ：回到自己的家目录
 
@@ -832,12 +832,12 @@ man [命令或配置文件]（功能描述：获得帮助信息）
   案例 1:创建一个目录 /home/dog
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.080.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.080.jpeg)
 
 案例 2:创建多级目录 /home/animal/tiger
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.081.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.081.jpeg)
 
 ### 9.4.5、rmdir 指令
 
@@ -853,7 +853,7 @@ man [命令或配置文件]（功能描述：获得帮助信息）
 
   案例 1:删除一个目录 /home/dog
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.082.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.082.jpeg)
 
 - 使用细节
 
@@ -861,7 +861,7 @@ man [命令或配置文件]（功能描述：获得帮助信息）
 
   提示：如果需要删除非空目录，需要使用	rm -rf 要删除的目录
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.083.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.083.jpeg)
 
 ### 9.4.6、touch 指令
 
@@ -875,7 +875,7 @@ touch 指令创建空文件
 
   案例 1: 创建一个空文件 hello.txt
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.084.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.085.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.084.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.085.jpeg)
 
 
 
@@ -895,18 +895,18 @@ cp 指令拷贝文件到指定目录
 
   案例 1: 将 /home/aaa.txt 拷贝到	/home/bbb 目录下[拷贝单个文件]
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.086.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.086.jpeg)
 
 ​		案例 2: 递归复制整个文件夹，举例将/home/test 整个目录拷贝到 /home/zwj 目录
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.087.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.087.jpeg)
 
 
 - 使用细节
 
   强制覆盖不提示的方法：\cp
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.088.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.088.jpeg)
 
 技术小技巧：
 
@@ -930,17 +930,17 @@ cp 指令拷贝文件到指定目录
 
   案例 1: 将 /home/aaa.txt 删除
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.089.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.089.jpeg)
 
 ​		案例 2: 递归删除整个文件夹 /home/bbb
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.090.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.090.jpeg)
 
 - 使用细节
 
   强制删除不提示的方法：带上 -f 参数即可
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.091.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.091.jpeg)
 
 ### 9.4.9、mv 指令
 
@@ -956,11 +956,11 @@ mv /temp/movefile /targetFolder   (功能描述：移动文件)
 
 案例 1: 将 /home/aaa.txt 文件 重新命名为 pig.txt
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.092.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.092.jpeg)
 
 案例 2:将 /home/pig.txt	文件 移动到 /root 目录下
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.093.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.093.jpeg)
 
 
 
@@ -980,7 +980,7 @@ cat 查看文件内容，是以只读的方式打开。
 
   案例 1:	/etc/profile	文件内容，并显示行号
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.094.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.094.jpeg)
 
 - 使用细节
 
@@ -1001,11 +1001,11 @@ more 指令是一个基于VI 编辑器的文本过滤器，它以全屏幕的方
 
   /etc/profile
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.095.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.095.jpeg)
 
 ​		快捷键一栏
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.096.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.096.jpeg)
 
 
 
@@ -1023,12 +1023,12 @@ more 指令是一个基于VI 编辑器的文本过滤器，它以全屏幕的方
 
   ​	案例: 采用 less 查看一个大文件文件 /opt/金庸-射雕英雄传 txt 精校版.txt
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.097.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.097.jpeg)
 
 ​		快捷键
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.098.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.098.jpeg)
 
 ### 9.4.13、》指令 和 》》指令
 
@@ -1042,19 +1042,19 @@ more 指令是一个基于VI 编辑器的文本过滤器，它以全屏幕的方
 
 - 基本语法
 
-- ls -l >文件	（功能描述：列表的内容写入文件 a.txt 中（覆盖写）） ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.099.jpeg)
+- ls -l >文件	（功能描述：列表的内容写入文件 a.txt 中（覆盖写）） ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.099.jpeg)
 
 说明：ls -l > a.txt , 将 ls -l 的显示的内容覆盖写入到 a.txt 文件，如果该文件不存在，就创建该文件。
 
 - ls -al >>文件	（功能描述：列表的内容追加到文件 aa.txt 的末尾）
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.100.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.100.jpeg)
 
 - cat 文件 1 > 文件 2 （功能描述：将文件 1 的内容覆盖到文件 2）
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.101.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.101.jpeg)
 
 -  echo "内容" >>  文件
 
@@ -1063,12 +1063,12 @@ more 指令是一个基于VI 编辑器的文本过滤器，它以全屏幕的方
 
      ​	案例 1: 将 /home 目录下的文件列表 写入到 /home/info.txt 中
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.102.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.102.jpeg)
 
 ​		案例 2: 将当前日历信息 追加到	/home/mycal 文件中 [提示 cal ]
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.103.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.103.jpeg)
 
 ### 9.4.14、echo 指令
 
@@ -1082,7 +1082,7 @@ echo 输出内容到控制台。
 
   ​    案例: 使用 echo 指令输出环境变量,输出当前的环境路径。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.104.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.104.jpeg)
 
 ​			案例: 使用 echo 指令输出 hello,world!
 
@@ -1101,7 +1101,7 @@ head 用于显示文件的开头部分内容，默认情况下 head 指令显示
   ​	案例: 查看/etc/profile 的前面 5 行代码
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.105.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.105.jpeg)
 
 ### 9.4.16、tail 指令
 
@@ -1116,12 +1116,12 @@ tail 用于输出文件中尾部的内容，默认情况下 tail 指令显示文
 
   案例 1: 查看/etc/profile 最后 5 行的代码
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.106.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.106.jpeg)
 
 ​		案例 2: 实时监控 mydate.txt , 看看到文件有变化时，是否看到， 实时的追加日期
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.107.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.107.jpeg)
 
 
 
@@ -1137,11 +1137,11 @@ tail 用于输出文件中尾部的内容，默认情况下 tail 指令显示文
 
   案例 1: 在/home 目录下创建一个软连接 linkToRoot，连接到 /root 目录
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.108.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.108.jpeg)
 
 ​		案例 2: 删除软连接 linkToRoot
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.109.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.109.jpeg)
 
 
 
@@ -1161,16 +1161,16 @@ tail 用于输出文件中尾部的内容，默认情况下 tail 指令显示文
 
   ​	案例 1: 显示所有的历史命令
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.110.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.110.jpeg)
 
 ​			案例 2: 显示最近使用过的 10 个指令。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.111.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.111.jpeg)
 
 ​			案例 3：执行历史编号为 5 的指令
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.112.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.112.jpeg)
 
 ## 9.5、时间日期类
 
@@ -1188,16 +1188,16 @@ tail 用于输出文件中尾部的内容，默认情况下 tail 指令显示文
 
   ​	案例 1: 显示当前时间信息
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.113.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.113.jpeg)
 
 ​			案例 2: 显示当前时间年月日
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.114.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.114.jpeg)
 
 ​			案例 3:  显示当前时间年月日时分秒
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.115.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.115.jpeg)
 
 ### 9.5.2、date 指令-设置日期
 
@@ -1211,7 +1211,7 @@ tail 用于输出文件中尾部的内容，默认情况下 tail 指令显示文
 
   ​	案例 1: 设置系统当前时间 ， 比如设置成 2018-10-10 11:22:22
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.116.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.116.jpeg)
 
 ### 9.5.3、cal 指令
 
@@ -1226,11 +1226,11 @@ tail 用于输出文件中尾部的内容，默认情况下 tail 指令显示文
   ​	案例 1: 显示当前日历
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.117.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.117.jpeg)
 
 ​			案例 2: 显示 2020 年日历
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.118.png)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.118.png)
 
 ## 9.6、搜索查找类
 
@@ -1244,29 +1244,29 @@ find 指令将从指定目录向下递归地遍历其各个子目录，将满足
 
 - 选项说明
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.119.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.119.jpeg)
 
 - 应用实例
 
   ​	案例 1: 按文件名：根据名称查找/home 目录下的 hello.txt 文件
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.120.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.120.jpeg)
 
 ​			案例 2：按拥有者：查找/opt 目录下，用户名称为 nobody 的文件
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.121.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.121.jpeg)
 
 ​			案例 3：查找整个 linux 系统下大于 20m 的文件（+n 大于	-n 小于	n 等于）
 
- ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.122.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.123.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.124.jpeg)
+ ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.122.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.123.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.124.jpeg)
 
- ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.125.jpeg)
+ ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.125.jpeg)
 
 ​		查询	/ 目录下，所有 .txt 的文件
 
 
- ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.126.jpeg)
+ ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.126.jpeg)
 
 ### 9.6.2、locate 指令
 
@@ -1284,7 +1284,7 @@ locaate 指令可以快速定位文件路径。locate 指令利用事先建立�
 
 案例 1: 请使用 locate 指令快速定位 hello.txt 文件所在目录
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.127.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.127.jpeg)
 
 
 
@@ -1301,13 +1301,13 @@ grep 过滤查找 ， 管道符，“|”，表示将前一个命令的处理结
 
 - 常用选项
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.128.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.128.jpeg)
 
 - 应用实例
 
   ​	案例 1: 请在 hello.txt 文件中，查找	"yes"	所在行，并且显示行号
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.129.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.129.jpeg)
 
 ## 9.7、压缩和解压类
 
@@ -1326,12 +1326,12 @@ gzip 用于压缩文件， gunzip 用于解压的
 
   ​	案例 1: gzip 压缩， 将 /home 下的 hello.txt 文件进行压缩
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.130.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.130.jpeg)
 
 
 ​			案例 2: gunzip 压缩， 将 /home 下的 hello.txt.gz 文件进行解压缩
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.131.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.131.jpeg)
 
 - 细节说明
 
@@ -1359,13 +1359,13 @@ zip 用于压缩文件， unzip 用于解压的，这个在项目打包发布中
 
   ​	案例 1:	将 /home 下的 所有文件进行压缩成 mypackage.zip
 
-  ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.133.jpeg)
+  ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.133.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.132.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.132.jpeg)
 
 ​			案例 2:	将 mypackge.zip 解压到 /opt/tmp 目录下
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.134.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.134.jpeg)
 
 
 
@@ -1380,25 +1380,25 @@ tar 指令 是打包指令，最后打包后的文件是 .tar.gz 的文件。
 - 选项说明
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.135.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.135.jpeg)
 
 - 应用实例
 
   ​	案例 1:	压缩多个文件，将 /home/a1.txt 和 /home/a2.txt  压缩成	a.tar.gz
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.136.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.136.jpeg)
 
 ​			案例 2:	将/home 的文件夹 压缩成 myhome.tar.gz
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.137.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.137.jpeg)
 
 ​			案例 3:	将 a.tar.gz	解压到当前目录
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.138.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.138.jpeg)
 
 ​			案例 4: 将 myhome.tar.gz	解压到 /opt/ 目录下
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.139.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.139.jpeg)
 
 ​			指定解压到的那个目录，事先要存在才能成功，否则会报错。
 
@@ -1413,7 +1413,7 @@ tar 指令 是打包指令，最后打包后的文件是 .tar.gz 的文件。
 3) 其它组
 4) 改变用户所在的组
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.140.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.140.jpeg)
 
 ## 10.2、文件/目录 所有者
 
@@ -1430,9 +1430,9 @@ tar 指令 是打包指令，最后打包后的文件是 .tar.gz 的文件。
 - 应用实例：创建一个组 police,再创建一个用户 tom,将 tom 放在 police 组 ,然后使用 tom 来创建一个文件 ok.txt，看看情况如何
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.141.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.141.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.142.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.142.jpeg)
 
 ### 10.2.2、chown 指令
 
@@ -1446,7 +1446,7 @@ tar 指令 是打包指令，最后打包后的文件是 .tar.gz 的文件。
 
   ​	要求：使用 root 创建一个文件 apple.txt ，然后将其所有者修改成 tom
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.143.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.143.jpeg)
 
 ## 10.3、组的创建
 
@@ -1462,7 +1462,7 @@ tar 指令 是打包指令，最后打包后的文件是 .tar.gz 的文件。
 
   ​	创建一个用户 fox  ，并放入到	monster 组中
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.144.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.144.jpeg)
 
 ## 10.4、文件/目录 所在组
 
@@ -1492,7 +1492,7 @@ ls –ahl
 
 ​		    使用 root 用户创建文件 orange.txt ,看看当前这个文件属于哪个组，然后将这个文件所在组，修改到 police 组。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.145.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.145.jpeg)
 
 ## 10.5、其它组
 
@@ -1513,7 +1513,7 @@ ls –ahl
 
   创建一个土匪组（bandit）将 tom 这个用户从原来所在的 police 组，修改到 bandit(土匪) 组
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.146.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.146.jpeg)
 
 ## 10.7、权限的基本介绍
 
@@ -1532,7 +1532,7 @@ ls –ahl
 ​	4) 第 7-9 位确定其他用户拥有该文件的权限 ---Other
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.147.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.147.jpeg)
 
 ## 10.8、rwx 权限详解
 
@@ -1607,15 +1607,15 @@ ls –ahl
 - 案例演示
   1) 给 abc 文件 的所有者读写执行的权限，给所在组读执行权限，给其它组读执行权限。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.148.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.148.jpeg)
 
 ​		2）给 abc 文件的所有者除去执行的权限，增加组写的权限
 
- ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.149.jpeg)
+ ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.149.jpeg)
 
 ​		3) 给 abc 文件的所有用户添加读的权限
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.150.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.150.jpeg)
 
 ### 10.10.3、第二种方式：通过数字变更权限
 
@@ -1654,11 +1654,11 @@ ls –ahl
 - 案例演示：
    1) 请将 /home/abc .txt 文件的所有者修改成 tom
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.151.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.151.jpeg)
 
 ​		2) 请将 /home/kkk 目录下所有的文件和目录的所有者都修改成 tom，首选我们应该使用 root 操作。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.152.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.152.jpeg)
 
 
 
@@ -1678,7 +1678,7 @@ ls –ahl
 
    ​		chgrp -R bandit /home/kkk
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.153.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.153.jpeg)
 
 ### 10.12.2、最佳实践-警察和土匪游戏
 
@@ -1691,31 +1691,31 @@ police ， bandit jack, jerry: 警察xh, xq: 土匪
 2) 创建用户
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.154.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.154.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.155.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.155.jpeg)
 
 3) jack 创建一个文件，自己可以读写，本组人可以读，其它组没人任何权限
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.156.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.156.jpeg)
 
 4) jack 修改该文件，让其它组人可以读, 本组人可以读写
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.157.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.157.jpeg)
 
 5) xh 投靠 警察，看看是否可以读写.
 
  先用 root 修改 xh 的组 ：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.158.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.158.jpeg)
 
 使用 jack 给他的家目录 /home/jack 的所在组一个 rx 的权限
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.159.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.159.jpeg)
 
 xh 需要重新注销在到 jack 目录就可以操作	jack 的文件
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.160.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.160.jpeg)
 
 ### 10.12.3、课后练习1
 
@@ -1773,7 +1773,7 @@ crontab 进行 定时任务的设置，。
 
 - 常用选项
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.161.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.161.jpeg)
 
 ## 11.4、快速入门
 
@@ -1798,7 +1798,7 @@ crontab 进行 定时任务的设置，。
 
 ### 11.4.3、参数细节说明
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.162.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.162.jpeg)
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
@@ -1899,7 +1899,7 @@ mydb.bak。
 ### 12.1.2、windows 下的磁盘分区
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.163.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.163.jpeg)
 
 ## 12.2、Linux 分区
 
@@ -1911,7 +1911,7 @@ mydb.bak。
 
 3)示意图
 
- ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.164.jpeg)
+ ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.164.jpeg)
 
 
 
@@ -1925,9 +1925,9 @@ mydb.bak。
 
 ### 12.2.3、使用lsblk 指令查看当前系统的分区情况
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.165.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.165.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.166.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.166.jpeg)
 
 
 
@@ -1937,7 +1937,7 @@ mydb.bak。
 
 ​		需求是给我们的 Linux 系统增加一个新的硬盘，并且挂载到/home/newdisk
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.167.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.167.jpeg)
 
 ### 12.3.1、如何增加一块硬盘
 
@@ -1961,7 +1961,7 @@ mydb.bak。
 
    ​		在【虚拟机】菜单中，选择【设置】，然后设备列表里添加硬盘，然后一路【下一步】，中间只有选择磁盘大小的地方需要修改，至到完成。然后重启系统（才能识别）！
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.168.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.168.jpeg)
 
 ### 12.4.2、虚拟机增加硬盘步骤 2
 
@@ -1977,7 +1977,7 @@ mydb.bak。
 
 说明： 开始分区后输入 n，新增分区，然后选择 p ，分区类型为主分区。两次回车默认剩余全部空间。最后输入 w 写入分区并退出，若不保存退出输入 q。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.169.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.169.jpeg)
 
 ### 12.4.3、虚拟机增加硬盘步骤 3
 
@@ -1998,7 +1998,7 @@ mydb.bak。
 
 ### 12.4.5、虚拟机增加硬盘步骤 5
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.170.jpeg)永久挂载: 通过修改/etc/fstab 实现挂载添加完成后 执行 mount	–a 即刻生效
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.170.jpeg)永久挂载: 通过修改/etc/fstab 实现挂载添加完成后 执行 mount	–a 即刻生效
 
 ## 12.5、磁盘情况查询
 
@@ -2014,7 +2014,7 @@ mydb.bak。
 
   ​	查询系统整体磁盘使用情况
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.171.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.171.jpeg)
 
 ### 12.5.2、du 指令
 
@@ -2040,52 +2040,52 @@ mydb.bak。
 
   查询 /opt 目录的磁盘占用情况，深度为 1
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.172.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.172.jpeg)
 
 ## 12.6、磁盘情况-工作实用指令
 
 - 统计/home 文件夹下文件的个数
 
- ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.173.jpeg)
+ ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.173.jpeg)
 
 - 统计/home 文件夹下目录的个数
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.174.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.174.jpeg)
 
 - 统计/home 文件夹下文件的个数，包括子文件夹里的
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.175.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.175.jpeg)
 
 - 统计文件夹下目录的个数，包括子文件夹里的
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.176.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.176.jpeg)
 
-1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.177.jpeg)
+1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.177.jpeg)
 
 - 以树状显示目录结构
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.178.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.178.jpeg)
 
 # 第 13 章 实操篇 网络配置
 
 ## 13.1、Linux 网络配置原理图(含虚拟机)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.179.jpeg)目前我们的网络配置采用的是 NAT。
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.179.jpeg)目前我们的网络配置采用的是 NAT。
 
 ## 13.2、查看网络IP 和网关
 
 ### 13.2.1、查看虚拟网络编辑器
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.180.png)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.180.png)
 
 ### 13.2.2、修改ip 地址(修改虚拟网络的ip)
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.181.png)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.181.png)
 
 ### 13.2.3、查看网关
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.182.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.182.jpeg)
 
 ### 13.2.4、查看windows 环境的中VMnet8 网络配置
 
@@ -2094,7 +2094,7 @@ mydb.bak。
 2) 界面查看
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.183.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.183.jpeg)
 
 ## 13.3、ping 测试主机之间网络连通
 
@@ -2113,7 +2113,7 @@ mydb.bak。
 ### 13.4.1、第一种方法(自动获取)
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.184.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.184.jpeg)
 
 ​		缺点: linux 启动后会自动获取 IP,缺点是每次自动获取的 ip 地址可能不一样。这个不适用于做服务器，因为我们的服务器的 ip 需要时固定的。
 
@@ -2125,7 +2125,7 @@ mydb.bak。
 
 要求：将 ip 地址配置的静态的，ip 地址为 192.168.184.130
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.186.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.186.jpeg)
 
 ​	修改后，一定要 重启服务
 
@@ -2133,7 +2133,7 @@ mydb.bak。
 
 ​		2) reboot 重启系统
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.187.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.187.jpeg)
 
 # 第 14 章 实操篇 进程管理
 
@@ -2157,10 +2157,10 @@ mydb.bak。
 
   ps -aux
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.190.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.190.jpeg)
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.191.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.191.jpeg)
 
 1. ps 指令详解
    1) 指令：ps –aux|grep xxx ，比如我看看有没有 sshd 服务
@@ -2184,7 +2184,7 @@ mydb.bak。
 
 要求：以全格式显示当前所有的进程，查看进程的父进程。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.192.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.192.jpeg)
 
 
 
@@ -2205,7 +2205,7 @@ mydb.bak。
 思考题，如果我们希望查看 sshd 进程的父进程号是多少，应该怎样查询 ？
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.193.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.193.jpeg)
 
 
 
@@ -2233,20 +2233,20 @@ mydb.bak。
   ​	案例 1：踢掉某个非法登录用户
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.194.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.194.jpeg)
 
 ​			案例 2: 终止远程登录服务 sshd, 在适当时候再次重启 sshd 服务
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.195.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.195.jpeg)
 
 ​			案例 3: 终止多个 gedit 编辑器 【killall , 通过进程名称来终止进程】
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.196.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.196.jpeg)
 
 ​			案例 4：强制杀掉一个终端
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.197.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.197.jpeg)
 
 ## 14.4、查看进程树 
 
@@ -2266,7 +2266,7 @@ mydb.bak。
 
   ​	案例 1：请你树状的形式显示进程的 pid
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.198.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.198.jpeg)
 
 ​			案例 2：请你树状的形式进程的用户 id pstree -u 即可。
 
@@ -2276,7 +2276,7 @@ mydb.bak。
 
 ​		服务(service) 本质就是进程，但是是运行在后台的，通常都会监听某个端口，等待其它程序的请求，比如(mysql , sshd 防火墙等)，因此我们又称为守护进程，是 Linux 中非常重要的知识点。【原理图】
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.199.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.199.jpeg)
 
 ### 14.5.2、service 管理指令：
 
@@ -2292,15 +2292,15 @@ mydb.bak。
    1)  查看当前防火墙的状况，关闭防火墙和重启防火墙。
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.200.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.200.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.201.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.201.jpeg)
 
 ### 14.5.4、细节讨论：
 
 1) 关闭或者启用防火墙后，立即生效。[telnet 测试	某个端口即可]
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.202.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.202.jpeg)
 
 2) 这种方式只是临时生效，当重启系统后，还是回归以前对服务的设置。
 
@@ -2311,11 +2311,11 @@ mydb.bak。
 方式 1：使用 setup -> 系统服务 就可以看到。
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.203.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.203.jpeg)
 
 方式 2:	/etc/init.d/服务名称
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.204.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.204.jpeg)
 
 ### 14.5.6、服务的运行级别(runlevel):
 
@@ -2335,7 +2335,7 @@ Linux 系统有 7 种运行级别(runlevel)：常用的是级别 3 和 5
 
 ### 14.5.7、开机的流程说明
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.205.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.205.jpeg)
 
 ### 14.5.8、chkconfig 指令
 
@@ -2344,21 +2344,21 @@ Linux 系统有 7 种运行级别(runlevel)：常用的是级别 3 和 5
 - 查看服务 chkconfig	--list|grep	xxx
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.206.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.206.jpeg)
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.207.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.207.jpeg)
 
 - chkconfig	服务名	--list
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.208.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.208.jpeg)
 
 - chkconfig	--level	5	服务名	on/off
 
   ​	请将 sshd 服务在运行级别为	5 的情况下，不要自启动。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.209.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.209.jpeg)
 
 ### 14.5.9、应用实例：
 
@@ -2403,9 +2403,9 @@ bash> chkconfig	iptables	on
 
 - 选项说明：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.210.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.210.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.211.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.211.jpeg)
 
 
 - 应用实例：
@@ -2415,7 +2415,7 @@ bash> chkconfig	iptables	on
   ​	top：输入此命令，按回车键，查看执行的进程。u：然后输入“u”回车，再输入用户名，即可
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.212.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.212.jpeg)
 
 ​			案例 2：终止指定的进程。
 
@@ -2423,7 +2423,7 @@ bash> chkconfig	iptables	on
 
 ​				k：然后输入“k”回车，再输入要结束的进程 ID 号
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.213.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.213.jpeg)
 
 
 ​			案例 3:指定系统状态更新的时间(每隔 10 秒自动更新， 默认是 3 秒)：
@@ -2448,11 +2448,11 @@ bash> chkconfig	iptables	on
 
   ​	查看系统所有的网络服务
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.214.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.214.jpeg)
 
 ​			请查看服务名为 sshd 的服务的信息。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.215.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.215.jpeg)
 
 # 第 15 章 实操篇 RPM 和 YUM
 
@@ -2470,7 +2470,7 @@ Linux 的分发版本都有采用（suse,redhat, centos 等等），可以算是
 
 请查询看一下，当前的 Linux 有没有安装 firefox .
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.217.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.217.jpeg)
 
 ### 15.1.3、rpm 包名基本格式：
 
@@ -2497,14 +2497,14 @@ rpm -qa | more [分页显示]
 rpm -qa | grep X [rpm -qa | grep firefox ]
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.221.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.221.jpeg)
 
 
 rpm -q 软件包名 :查询软件包是否安装rpm -q firefox
 
 rpm -qi  软件包名 ：查询软件包信息
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.224.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.224.jpeg)
 
 
 rpm -qi file
@@ -2512,14 +2512,14 @@ rpm -qi file
 
 rpm -ql 软件包名 :查询软件包中的文件rpm -ql firefox
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.225.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.225.jpeg)
 
 
 rpm -qf 文件全路径名 查询文件所属的软件包
 
 rpm -qf /etc/passwd rpm -qf /root/install.log
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.226.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.226.jpeg)
 
 ### 15.1.5、卸载rpm 包：
 
@@ -2531,7 +2531,7 @@ rpm -qf /etc/passwd rpm -qf /root/install.log
 
   ​	1)	删除 firefox	软件包
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.227.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.227.jpeg)
 
 - 细节问题
   1) 如果其它软件包依赖于您要卸载的软件包，卸载时则会产生错误信息。如：	$ rpm -e	foo
@@ -2566,7 +2566,7 @@ rpm -qf /etc/passwd rpm -qf /root/install.log
 
 ​		cp firefox-45.0.1-1.el6.centos.x86\_64.rpm /opt/
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.228.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.228.jpeg)
 
 ## 15.2、yum
 
@@ -2575,7 +2575,7 @@ rpm -qf /etc/passwd rpm -qf /root/install.log
 ​		Yum 是一个 [Shell ](https://baike.baidu.com/item/Shell)前端软件包管理器。基于 [RPM ](https://baike.baidu.com/item/RPM)包管理，能够从指定的服务器自动下载 RPM 包并且安装，可以自动处理依赖性关系，并且一次安装所有依赖的软件包。使用 yum 的前提是可以联网。
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.229.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.229.jpeg)
 
 - yum 的基本指令
 
@@ -2592,7 +2592,7 @@ rpm -qf /etc/passwd rpm -qf /root/install.log
 
 1) 先查看一下 firefox	rpm 在 yum 服务器有没有
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.230.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.230.jpeg)
 
 2) 安装
 
@@ -2600,19 +2600,19 @@ rpm -qf /etc/passwd rpm -qf /root/install.log
 
 会安装最新版本的软件。成功！
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.231.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.231.jpeg)
 
 
 第 16 章 JavaEE 定制篇 搭建 JavaEE 环境
 
 1. 概述
-   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)示意图：
+   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)示意图：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.232.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.232.jpeg)
 
 如果需要在 Linux 下进行 JavaEE 的开发，我们需要安装如下软件
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.233.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.233.jpeg)
 
 
 1. 安装 JDK
@@ -2624,41 +2624,41 @@ rpm -qf /etc/passwd rpm -qf /root/install.log
 
 0) 配置环境变量的配置文件 vim	/etc/profile
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.234.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.234.jpeg)
 
 JAVA\_HOME=/opt/jdk1.7.0\_79 PATH=/opt/jdk1.7.0\_79/bin:$PATH export JAVA\_HOME PATH
 
 0) 需要注销用户，环境变量才能生效。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)如果是在 3 运行级别， logout
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)如果是在 3 运行级别， logout
 
 如果是在 5 运行级别，
 
-0) ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.235.jpeg)在任何目录下就可以使用 java 和 javac
+0) ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.235.jpeg)在任何目录下就可以使用 java 和 javac
    1. 测试是否安装成功
 
 编写一个简单的 Hello.java 输出"hello,world!"
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.236.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.236.jpeg)
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.237.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.237.jpeg)
 
 1. 安装 tomcat
 
 1. 步骤 :
-   1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.238.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)解压缩到/opt
+   1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.238.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)解压缩到/opt
    1) 启动 tomcat	./startup.sh
 
 先进入到 tomcat 的 bin 目录
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.239.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.240.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.239.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.240.jpeg)
 
 
 使用 Linux 本地的浏览是可以访问到 tomcat
 
 
-1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.241.jpeg)开放端口 8080 ,这样外网才能访问到 tomcat vim /etc/sysconfig/iptables
+1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.241.jpeg)开放端口 8080 ,这样外网才能访问到 tomcat vim /etc/sysconfig/iptables
 
 
 
@@ -2671,9 +2671,9 @@ JAVA\_HOME=/opt/jdk1.7.0\_79 PATH=/opt/jdk1.7.0\_79/bin:$PATH export JAVA\_HOME 
 
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)重启防火墙
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)重启防火墙
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.242.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.242.jpeg)
 
 
 
@@ -2682,14 +2682,14 @@ JAVA\_HOME=/opt/jdk1.7.0\_79 PATH=/opt/jdk1.7.0\_79/bin:$PATH export JAVA\_HOME 
 在 windows、Linux 下 访问	http://linuxip:8080
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.243.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.243.jpeg)
 
 
 
 
 1. Eclipse 的安装
-   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)步骤 :
-      1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.244.jpeg)解压缩到/opt
+   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)步骤 :
+      1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.244.jpeg)解压缩到/opt
       1) 启动 eclipse，配置 jre 和 server
 
 启动方法 1: 创建一个快捷方式
@@ -2698,7 +2698,7 @@ JAVA\_HOME=/opt/jdk1.7.0\_79 PATH=/opt/jdk1.7.0\_79/bin:$PATH export JAVA\_HOME 
 
 1) 编写 jsp 页面,并测试成功!
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.245.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.245.jpeg)
 
 
 
@@ -2713,11 +2713,11 @@ JAVA\_HOME=/opt/jdk1.7.0\_79 PATH=/opt/jdk1.7.0\_79/bin:$PATH export JAVA\_HOME 
 注意: 先删除一下 Mysql 相关的软件..
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.246.png)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.246.png)
 
 尚硅谷centos6.8下安装mysql.docx.zip
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)说明
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)说明
 
 请同学们一定要按照老师的文档一步一步的安装成功。
 
@@ -2730,11 +2730,11 @@ JAVA\_HOME=/opt/jdk1.7.0\_79 PATH=/opt/jdk1.7.0\_79/bin:$PATH export JAVA\_HOME 
 1) 对于大数据程序员来说，需要编写 Shell 程序来管理集群。
 
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)Shell 是什么
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)Shell 是什么
 
 画一个示意图：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.247.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.247.jpeg)
 
 Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序，用户可以用 Shell 来启动、挂起、停止甚至是编写一些程序.
 
@@ -2751,20 +2751,20 @@ Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核�
 
 看案例：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.248.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.248.jpeg)
 
 1. 脚本的常用执行方式
-- ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)方式 1(输入脚本的绝对路径或相对路径)
+- ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)方式 1(输入脚本的绝对路径或相对路径)
   1) 首先要赋予 helloworld.sh 脚本的+x 权限
   1) 执行脚本
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.249.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.249.jpeg)
 
 - 方式 2(sh+脚本)，不推荐
 
 说明：不用赋予脚本+x 权限，直接执行即可
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.250.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.250.jpeg)
 
 
 
@@ -2772,14 +2772,14 @@ Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核�
 
 1. Shell 的变量的介绍
    1. Linux Shell 中的变量分为，系统变量和用户自定义变量。
-   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.251.jpeg)系统变量：$HOME、$PWD、$SHELL、$USER 等等比如： echo $HOME	等等..
+   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.251.jpeg)系统变量：$HOME、$PWD、$SHELL、$USER 等等比如： echo $HOME	等等..
 
 
 
 
 
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)显示当前 shell 中所有变量：set
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)显示当前 shell 中所有变量：set
 
 
 1. shell 变量的定义
@@ -2796,14 +2796,14 @@ Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核�
 案例 2：撤销变量 A
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.252.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.252.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.253.jpeg)案例 3：声明静态的变量 B=2，不能 unset
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.253.jpeg)案例 3：声明静态的变量 B=2，不能 unset
 
 案例 4：可把变量提升为全局环境变量，可供其他 shell 程序使用【一会举例。】
 
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)•定义变量的规则
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)•定义变量的规则
 1) 变量名称可以由字母、数字和下划线组成，但是不能以数字开头。
 1) 等号两侧不能有空格
 1) 变量名称一般习惯为大写
@@ -2814,32 +2814,32 @@ Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核�
 1. A=$(ls -la) 等价于反引号
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.254.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.254.jpeg)
 
 
 1. 设置环境变量
-   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)基本语法
+   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)基本语法
       1) export 变量名=变量值 （功能描述：将 shell 变量输出为环境变量）
       1) source 配置文件	（功能描述：让修改后的配置信息立即生效）
       1) echo $变量名	（功能描述：查询环境变量的值）
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.255.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.255.jpeg)
 
 1. 快速入门
 
 1) 在/etc/profile 文件中定义 TOMCAT\_HOME 环境变量
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.256.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.256.jpeg)
 
 
 1) 查看环境变量 TOMCAT\_HOME 的值
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)echo	$TOMCAT\_HOME
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)echo	$TOMCAT\_HOME
 
 1) 在另外一个 shell 程序中使用 TOMCAT\_HOME
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.257.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.257.jpeg)
 
 
 
@@ -2858,7 +2858,7 @@ source /etc/profile
 
 $n （功能描述：n 为数字，$0 代表命令本身，$1-$9 代表第一到第九个参数，十以上的参数，十以上的参数需要用大括号包含，如${10}）
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)$\* （功能描述：这个变量代表命令行中所有的参数，$\*把所有的参数看成一个整体）
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)$\* （功能描述：这个变量代表命令行中所有的参数，$\*把所有的参数看成一个整体）
 
 $@（功能描述：这个变量也代表命令行中所有的参数，不过$@把每个参数区分对待）
 
@@ -2866,9 +2866,9 @@ $#（功能描述：这个变量代表命令行中所有参数的个数）
 
 1. 位置参数变量应用实例
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.258.jpeg)案例：编写一个 shell 脚本 positionPara.sh ， 在脚本中获取到命令行的各个参数信息
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.258.jpeg)案例：编写一个 shell 脚本 positionPara.sh ， 在脚本中获取到命令行的各个参数信息
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.259.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.259.jpeg)
 
 
 
@@ -2883,11 +2883,11 @@ $$ （功能描述：当前进程的进程号（PID））
 
 $! （功能描述：后台运行的最后一个进程的进程号（PID））
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)$？ （功能描述：最后一次执行的命令的返回状态。如果这个变量的值为 0，证明上一个命令正确执行；如果这个变量的值为非 0（具体是哪个数，由命令自己来决定），则证明上一个命令执行不正确了。）
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)$？ （功能描述：最后一次执行的命令的返回状态。如果这个变量的值为 0，证明上一个命令正确执行；如果这个变量的值为非 0（具体是哪个数，由命令自己来决定），则证明上一个命令执行不正确了。）
 
 1. 应用实例
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.260.jpeg)在一个 shell 脚本中简单使用一下预定义变量
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.260.jpeg)在一个 shell 脚本中简单使用一下预定义变量
 
 1. 运算符
    1. 基本介绍
@@ -2908,27 +2908,27 @@ $! （功能描述：后台运行的最后一个进程的进程号（PID））
 
 案例 1：计算（2+3）X4 的值
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.261.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)1) $((运算式))
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.261.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)1) $((运算式))
 
 2) $[运算式]
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.262.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.262.jpeg)
 
 2) expr
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.263.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.263.jpeg)
 
 案例 2：请求出命令行的两个参数[整数]的和
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.264.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.264.jpeg)
 
 
 1. 条件判断
 
 判断语句
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)•基本语法
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)•基本语法
 
 [ condition ]（注意 condition 前后要有空格）
 
@@ -2975,20 +2975,20 @@ $! （功能描述：后台运行的最后一个进程的进程号（PID））
 -d 文件存在并是一个目录
 
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)应用实例
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)应用实例
 
 案例 1："ok"是否等于"ok"
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.265.jpeg)判断语句：
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.265.jpeg)判断语句：
 
 案例 2：23 是否大于等于 22
 
 判断语句：
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.266.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.266.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.267.jpeg)案例 3：/root/install.log 目录中的文件是否存在判断语句：
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.267.jpeg)案例 3：/root/install.log 目录中的文件是否存在判断语句：
 
 
 
@@ -3031,9 +3031,9 @@ fi
 
 案例：请编写一个 shell 程序，如果输入的参数，大于等于 60，则输出 "及格了"，如果小于 60,
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)则输出 "不及格"
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)则输出 "不及格"
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.268.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.268.jpeg)
 
 
 1. case 语句
@@ -3066,10 +3066,10 @@ esac
 
 案例 1 ：当命令行参数是 1 时，输出 "周一", 是 2 时，就输出"周二"， 其它情况输出	"other"
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.269.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.269.jpeg)
 
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)for 循环
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)for 循环
 
    0. 基本语法 1
 
@@ -3084,10 +3084,10 @@ esac
 案例 1 ：打印命令行输入的参数	【会使用到$\* $@】
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.270.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.270.jpeg)
 
 
-0. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)基本语法 2
+0. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)基本语法 2
 
 **for ((** 初始值**;**循环控制条件**;**变量变化 **)) do**
 
@@ -3097,7 +3097,7 @@ esac
 
 0. 应用实例
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.271.jpeg)案例 1 ：从 1 加到 100 的值输出显示
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.271.jpeg)案例 1 ：从 1 加到 100 的值输出显示
 
 
 
@@ -3113,7 +3113,7 @@ done
 
 0. 应用实例
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.272.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)案例 1 ：从命令行输入一个数 n，统计从 1+..+ n 的值是多少？
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.272.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)案例 1 ：从命令行输入一个数 n，统计从 1+..+ n 的值是多少？
 
 
 
@@ -3138,10 +3138,10 @@ read(选项)(参数)
 
 案例 2：读取控制台输入一个 num 值，在 10 秒内输入。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.273.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.273.jpeg)
 
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)函数
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)函数
    1. 函数介绍
 
 shell 编程和其它编程语言一样，有系统函数，也可以自定义函数。系统函数中，我们这里就介绍两个。
@@ -3167,15 +3167,15 @@ suffix 为后缀，如果 suffix 被指定了，basename 会将 pathname 或 str
 
 dirname 文件绝对路径 （功能描述：从给定的包含绝对路径的文件名中去除文件名（非目录的部分），然后返回剩下的路径（目录的部分））
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)•应用实例
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)•应用实例
 
 案例 1：请返回 /home/aaa/test.txt 的 "test.txt" 部分
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.274.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.274.jpeg)
 
 案例 2：请返回 /home/aaa/test.txt 的 /home/aaa
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.275.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.275.jpeg)
 
 1. 自定义函数
 
@@ -3194,11 +3194,11 @@ Action; [return int;]
 
 0. 应用实例
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.276.jpeg)案例 1：计算输入两个参数的和（read）， getSum
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.276.jpeg)案例 1：计算输入两个参数的和（read）， getSum
 
 1. Shell 编程综合案例
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)需求分析
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)需求分析
 
 1) 每天凌晨 2:10 备份 数据库 atguiguDB 到 /data/backup/db 2)备份开始和备份结束能够给出相应的提示信息
 3) 备份后的文件要求以备份时间为文件名，并打包成 .tar.gz 的形式，比如：
@@ -3207,16 +3207,16 @@ Action; [return int;]
 
 3) 在备份的同时，检查是否有 10  天前备份的数据库文件，如果有就将其删除。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.277.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)编写一个 shell 脚本。思路分析：
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.277.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)编写一个 shell 脚本。思路分析：
 
 代码实现：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.278.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.279.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.278.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.279.jpeg)
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.280.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.280.jpeg)
 
 
 
@@ -3228,16 +3228,16 @@ Ubuntu（友帮拓、优般图、乌班图）是一个以[桌面](https://baike.
 
 专业的 Python 开发者一般会选择 Ubuntu 这款 Linux 系统作为生产平台. 温馨提示：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)Ubuntu 和 Centos 都是基于 GNU/Linux 内核的，因此基本使用和 Centos 是几乎一样的，它们的各种指令可以通用，同学们在学习和使用 Ubuntu 的过程中，会发现各种操作指令在前面学习 CentOS 都使用过。只是界面和预安装的软件有所差别。
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)Ubuntu 和 Centos 都是基于 GNU/Linux 内核的，因此基本使用和 Centos 是几乎一样的，它们的各种指令可以通用，同学们在学习和使用 Ubuntu 的过程中，会发现各种操作指令在前面学习 CentOS 都使用过。只是界面和预安装的软件有所差别。
 
 Ubuntu 下载地址：[http://cn.ubuntu.com/download](http://cn.ubuntu.com/download/)[/](http://cn.ubuntu.com/download/)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.281.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.281.jpeg)
 
 1. Ubuntu 的安装
    1. 安装的步骤
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.282.png)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.282.png)
 
 尚硅谷Python安装Ubuntu.zip
 
@@ -3250,9 +3250,9 @@ Ubuntu 下载地址：[http://cn.ubuntu.com/download](http://cn.ubuntu.com/downl
 1. 单击左侧图标栏打开 System Settings（系统设置）菜单，点击打开 Language Support（语言支持）选项卡。
 1. 点击 Install / Remove Languages，在弹出的选项卡中下拉找到 Chinese(Simplified)，即中文简体， 在后面的选项框中打勾。然后点击 Apply Changes 提交，系统会自动联网下载中文语言包。（保证ubuntu 是联网的）。
 1. 这时“汉语（中国）”在最后一位因为当前第一位是”English”，所以默认显示都是英文。我们如果希望默认显示用中文，则应该将“汉语（中国）”设置为第一位。设置方法是拖动，鼠标单击“汉语（中国）”，当底色变化（表示选中了）后，按住鼠标左键不松手，向上拖动放置到第一位。
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)设置后不会即刻生效，需要下一次登录时才会生效。
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)设置后不会即刻生效，需要下一次登录时才会生效。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.283.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.283.jpeg)
 
 
 1. Ubuntu 的 roo 用户
@@ -3266,11 +3266,11 @@ Ubuntu 下载地址：[http://cn.ubuntu.com/download](http://cn.ubuntu.com/downl
 
 1. 给root 用户设置密码并使用
 1) 输入 sudo passwd 命令，输入一般用户密码并设定 root 用户密码。
-1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)设定 root 密码成功后，输入 su 命令，并输入刚才设定的 root 密码，就可以切换成 root 了。提示符$代表一般用户，提示符#代表 root 用户。
+1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)设定 root 密码成功后，输入 su 命令，并输入刚才设定的 root 密码，就可以切换成 root 了。提示符$代表一般用户，提示符#代表 root 用户。
 1) 输入 exit 命令，退出 root 并返回一般用户
 1) 以后就可以使用 root 用户了
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.284.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.284.jpeg)
 
 
 1. Ubuntu 下开发Python
@@ -3279,16 +3279,16 @@ Ubuntu 下载地址：[http://cn.ubuntu.com/download](http://cn.ubuntu.com/downl
 安装好 Ubuntu 后，默认就已经安装好 Python 的开发环境[Python2.7 和	Python3.5]。
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.285.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.285.jpeg)
 
 1. 在Ubuntu 下开发一个 Python 程序
-1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)vim hello.py	[编写 hello.py]
+1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)vim hello.py	[编写 hello.py]
 
 提示：如果 Ubuntu 没有 vim	我们可以根据提示信息安装一个 vim apt install vim
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.286.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.286.jpeg)
 
-1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.287.jpeg)python3 hello.py	[运行 hello.py]
+1) ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.287.jpeg)python3 hello.py	[运行 hello.py]
 
 
 第 19 章 Python 定制篇 apt 软件管理和远程登录
@@ -3299,10 +3299,10 @@ apt 是 Advanced Packaging Tool 的简称，是一款安装包管理工具。在
 
 命令可用于软件包的安装、删除、清理等，类似于 Windows 中的软件管理工具。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.288.jpeg)unbuntu	软件管理的原理示意图：
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.288.jpeg)unbuntu	软件管理的原理示意图：
 
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)Ubuntu 软件操作的相关命令
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)Ubuntu 软件操作的相关命令
 
 sudo apt-get update	更新源
 
@@ -3330,31 +3330,31 @@ sudo apt-get upgrade 更新已安装的包
 
 sudo apt-get dist-upgrade 升级系统
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)sudo apt-cache depends package 了解使用该包依赖那些包sudo apt-cache rdepends package 查看该包被哪些包依赖sudo apt-get source package	下载该包的源代码
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)sudo apt-cache depends package 了解使用该包依赖那些包sudo apt-cache rdepends package 查看该包被哪些包依赖sudo apt-get source package	下载该包的源代码
 
 1. 更新 Ubuntu 软件下载地址
-   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.289.jpeg)原理示意图
+   1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.289.jpeg)原理示意图
    1. 寻找国内镜像源
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)https://mirrors.tuna.tsinghua.edu.cn/
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)https://mirrors.tuna.tsinghua.edu.cn/
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.290.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.291.jpeg)所谓的镜像源：可以理解为提供下载软件的地方，比如 Android 手机上可以下载软件的安卓市场；iOS 手机上可以下载软件的 AppStore
-
-
-
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.292.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.290.jpeg)![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.291.jpeg)所谓的镜像源：可以理解为提供下载软件的地方，比如 Android 手机上可以下载软件的安卓市场；iOS 手机上可以下载软件的 AppStore
 
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)备份Ubuntu 默认的源地址
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.293.jpeg)sudo cp /etc/apt/sources.list /etc/apt/sources.list.backup
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.292.jpeg)
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.294.jpeg)
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)备份Ubuntu 默认的源地址
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)更新源服务器列表
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.293.jpeg)sudo cp /etc/apt/sources.list /etc/apt/sources.list.backup
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.295.jpeg)
+
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.294.jpeg)
+
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)更新源服务器列表
+
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.295.jpeg)
 
 
 1. Ubuntu 软件安装，卸载的最佳实践
@@ -3363,15 +3363,15 @@ sudo apt-get dist-upgrade 升级系统
 sudo apt-get remove vim
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.296.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.296.jpeg)
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)sudo apt-get install vim
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)sudo apt-get install vim
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.297.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.297.jpeg)
 
 sudo apt-cache show vim
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.298.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.298.jpeg)
 
 
 
@@ -3384,7 +3384,7 @@ SSH 为 Secure Shell 的缩写，由 IETF 的网络工作小组（Network Workin
 
 SSH 是目前较可靠，专为远程登录会话和其他网络服务提供安全性的协议。常用于远程登录，以及用户之间进行资料拷贝。几乎所有 UNIX 平台—包括 HP-UX、Linux、AIX、Solaris、Digital UNIX、Irix，以及其他平台，都可运行 SSH。
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)使用 SSH 服务，需要安装相应的服务器和客户端。客户端和服务器的关系：如果，A 机器想被 B
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)使用 SSH 服务，需要安装相应的服务器和客户端。客户端和服务器的关系：如果，A 机器想被 B
 
 机器远程控制，那么，A 机器需要安装 SSH 服务器，B 机器需要安装 SSH 客户端。
 
@@ -3392,7 +3392,7 @@ SSH 是目前较可靠，专为远程登录会话和其他网络服务提供安�
 
 1. 原理示意图：
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.299.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.299.jpeg)
 
 
 1. 使用 ssh 远程登录Ubuntu
@@ -3404,9 +3404,9 @@ sudo apt-get install openssh-server
 
 service sshd restart
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)执行上面的指令，就启动了 sshd 服务。会监听端口 22
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)执行上面的指令，就启动了 sshd 服务。会监听端口 22
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.300.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.300.jpeg)
 
 
 1. 在Windows 使用XShell5/XFTP5 登录 Ubuntu
@@ -3416,10 +3416,10 @@ service sshd restart
 注意：使用 atguigu 用户登录，需要的时候再 su - 切换成 root 用户
 
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.301.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.301.jpeg)
 
 
-1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)从linux 系统客户机远程登陆linux 系统服务机
+1. ![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)从linux 系统客户机远程登陆linux 系统服务机
 
 首先，我们需要在 linux 的系统客户机也要安装 openssh-server
 
@@ -3436,4 +3436,4 @@ ssh 用户名@IP
 
 登出命令：exit 或者 logout
 
-![](https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)
+![](https://github.com/HymesZhao/StudyNotes/blob/master/Aspose.Words.31153474-8974-41f6-9a78-3f6fd7fb8e3e.004.jpeg)
