@@ -4,7 +4,7 @@
 
 软件开发生命周期又叫做**SDLC (** Software Development Life Cycle ),它是集合了计划、开发、测试 和部署过程的集合。如下图所示：
 
-![image-20210626230554259](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626230554259.png)
+![image-20210626230554259](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626230554259.png)
 
 - 需求分析 
 
@@ -32,7 +32,7 @@
 
 下图对软件开发模型的一个阐述。
 
-![image-20210626230842482](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626230842482.png)
+![image-20210626230842482](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626230842482.png)
 
 
 | **优势**                                   | **劣势**                                                     |
@@ -63,7 +63,7 @@
 
 虽然敏捷开发将软件开发分成多个迭代，但是也要求，每次迭代都是一个完整的软件开发周期，必须按 照软件工程的方法论，进行正规的流程管理。
 
-![image-20210626231051397](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626231051397.png)
+![image-20210626231051397](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626231051397.png)
 
 ### 敏捷开发有什么好处
 
@@ -85,7 +85,7 @@
 
 ### 持续集成的流程
 
-![image-20210626231509180](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626231509180.png)
+![image-20210626231509180](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626231509180.png)
 
 根据持续集成的设计,代码从提交到生产,整个过程有以下几步。
 
@@ -124,7 +124,7 @@
 - 一个持续集成服务器，Jenkins就是一个配置简单和使用方便的持续集成服务器。
 
 
-![image-20210626232106748](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626232106748.png)
+![image-20210626232106748](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626232106748.png)
 
 ### 持续集成的好处
 
@@ -142,7 +142,7 @@
 
 ### Jenkins介绍
 
-![image-20210626232303592](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626232303592.png)
+![image-20210626232303592](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626232303592.png)
 
 
 Jenkins是一款流行的开源持续集成(Continuous Integration )工具,广泛用于项目开发,具有自动 化构建、测试和部署等功能。官网：http://jenkins-ci.org/。
@@ -165,7 +165,7 @@ Jenkins是一款流行的开源持续集成(Continuous Integration )工具,广�
 
 ## 2.1、持续集成流程说明
 
-![image-20210626232439387](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626232439387.png)
+![image-20210626232439387](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626232439387.png)
 
 1. ）首先，开发人员每天进行代码提交,提交到Git仓库
 1. ）然后，Jenkins作为持续集成工具，使用Git工具到Git仓库拉取代码到甄服务器,再配合JDK , Maven等软件完成代码编译，代码测试与审查，测试，打包等工作，在这个过程中每一步出错，都重新 再执行一次整个龈
@@ -185,7 +185,7 @@ Jenkins是一款流行的开源持续集成(Continuous Integration )工具,广�
 
 **Gitlab简介**
 
-![image-20210626232807368](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626232807368.png)
+![image-20210626232807368](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626232807368.png)
 
 官网：<https://aboutgitlab.com/>
 
@@ -251,7 +251,7 @@ GitLab和GitHub一样属于第三方基于Git开发的作品,免费且开源（�
 
 启动成功后,看到以下修改管理员root密码的页面，修改密码后,然后登录即可
 
-![image-20210626233648489](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626233648489.png)
+![image-20210626233648489](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626233648489.png)
 
 ### **2.2.2、Gitlab添加组、创建用户、创建项目**
 
@@ -259,25 +259,25 @@ GitLab和GitHub一样属于第三方基于Git开发的作品,免费且开源（�
 
 使用管理员root创建组,一个组里面可以有多个项目分支,可以将开发添加到组里面进行设置权限, 不同的组就是公司不同的开发项目或者服务模块,不同的组添加不同的开发即可实现对开发设置权限的 管理
 
-![image-20210626233731851](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626233731851.png)
+![image-20210626233731851](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626233731851.png)
 
-![image-20210626233741557](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626233741557.png)
+![image-20210626233741557](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626233741557.png)
 
 2）创建用户
 
 创建用户的时候，可以选择Regular或Admin类型。
 
-![image-20210626233813987](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626233813987.png)
+![image-20210626233813987](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626233813987.png)
 
-创建完用户后，立即修改密码![image-20210626234038570](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626234038570.png)
+创建完用户后，立即修改密码![image-20210626234038570](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626234038570.png)
 
 3）将用户添加到组中
 
 选择某个用户组,进行Members管理组的成员
 
-![image-20210626234148738](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626234148738.png)
+![image-20210626234148738](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626234148738.png)
 
-![image-20210626234202802](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626234202802.png)
+![image-20210626234202802](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626234202802.png)
 
 Gitlab用户在组里面有5种不同权限：
 
@@ -287,9 +287,9 @@ Guest :可以创建issue、发表评论，不能读写版本库Reporter :可以�
 
 以刚才创建的新用户身份登录到Gitlab ,然后在用户组中创建新的项目
 
-![image-20210626234354810](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626234354810.png)
+![image-20210626234354810](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626234354810.png)
 
-![image-20210626234411384](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626234411384.png)
+![image-20210626234411384](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626234411384.png)
 
 ### 2.2.3、源码上传到Gitlab仓库
 
@@ -299,7 +299,7 @@ Guest :可以创建issue、发表评论，不能读写版本库Reporter :可以�
 
 1 ）项目结构说明
 
-![image-20210626234559057](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626234559057.png)
+![image-20210626234559057](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626234559057.png)
 
 
 
@@ -307,33 +307,33 @@ Guest :可以创建issue、发表评论，不能读写版本库Reporter :可以�
 
 2）开启版本控制
 
-![image-20210626234640352](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626234640352.png)
+![image-20210626234640352](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626234640352.png)
 
 2) 提交代码到本地仓库
 
 先Add到缓存区
 
-![image-20210626234744975](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626234744975.png)
+![image-20210626234744975](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626234744975.png)
 
 再Commit到本地仓库
 
-![image-20210626234818835](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626234818835.png)
+![image-20210626234818835](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626234818835.png)
 
 3 ）推送到Gitlab项目仓库中
-![image-20210626234919641](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626234919641.png)
+![image-20210626234919641](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626234919641.png)
 
 这时都Gitlab的项目中拷贝url地址
 
 **web\_demo**
 
-![image-20210626234940169](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626234940169.png)
+![image-20210626234940169](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626234940169.png)
 
 输入gitlab的用户名和密码,然后就可以把代码推送至U远程仓库啦
 
-![image-20210626235023276](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626235023276.png)
+![image-20210626235023276](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626235023276.png)
 刷新gitlab项目
 
-![image-20210626235048003](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626235048003.png)
+![image-20210626235048003](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626235048003.png)
 
 ## 2.3、持续集成环境
 
@@ -383,15 +383,15 @@ Guest :可以创建issue、发表评论，不能读写版本库Reporter :可以�
 
 8）跳过插件安装
 
-![image-20210626235415429](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626235415429.png)
+![image-20210626235415429](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626235415429.png)
 
 9 ）添加一个管理员账户,并进入Jenkins后台
 
-![image-20210626235455941](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626235455941.png)
+![image-20210626235455941](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626235455941.png)
 
-![image-20210626235533961](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626235533961.png)
+![image-20210626235533961](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626235533961.png)
 
-![image-20210626235545810](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626235545810.png)
+![image-20210626235545810](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626235545810.png)
 
 ### 2.3.2、Jenkins插件管理
 
@@ -401,7 +401,7 @@ Jenkins本身不提供很多功能,我们可以通过使用插件来满足我们
 
 Jenkins国夕卜官方插件地址下载速度非常慢,所以可以修改为国内插件地址:
 
-![image-20210626235723230](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210626235723230.png)
+![image-20210626235723230](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210626235723230.png)
 
 这样做是为了JBjenkins官方的插件列表下载到本地，接着修改地址文件，替换为国内插件土也址
 
@@ -413,7 +413,7 @@ Jenkins国夕卜官方插件地址下载速度非常慢,所以可以修改为国
 
 > https://mirrors.tuna.tsinghua.edu.cn/jenkins/updates/update-center.json
 
-![image-20210627000043974](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000043974.png)
+![image-20210627000043974](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000043974.png)
 
 Sumbit 后,在浏览器输入：http://192.168.66.101:8888/restart  ,重启Jenkins。
 
@@ -421,11 +421,11 @@ Sumbit 后,在浏览器输入：http://192.168.66.101:8888/restart  ,重启Jenki
 
 Jenkins->ManageJenkins->Manage Plugins ,点击Available ,搜索”Chinese”
 
-![image-20210627000144329](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000144329.png)
+![image-20210627000144329](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000144329.png)
 
 重启Jenkins后,就看至Men kins汉化了 ！（ PS :但可能部分菜单汉化会失败）
 
-![image-20210627000158718](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000158718.png)
+![image-20210627000158718](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000158718.png)
 
 ### 2.3.3、Jenkins用户权限管理
 
@@ -433,21 +433,21 @@ Jenkins->ManageJenkins->Manage Plugins ,点击Available ,搜索”Chinese”
 
 **安装Role-based Authorization Strategy插件**
 
-![image-20210627000250342](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000250342.png)
+![image-20210627000250342](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000250342.png)
 
 **开启权限全局安全配置**
 
-![image-20210627000331197](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000331197.png)
+![image-20210627000331197](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000331197.png)
 
 **创建角色**
 
 在系统管理页面进入Manage and Assign Roles
 
-![image-20210627000445099](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000445099.png)
+![image-20210627000445099](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000445099.png)
 
 点击"Manage Roles"
 
-![image-20210627000511584](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000511584.png)
+![image-20210627000511584](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000511584.png)
 
 Global roles（全局角色）：管理员等高级用户可以创建基于全局的角色 
 
@@ -465,7 +465,7 @@ Slave roles（奴隶角色）：节点相关的权限
 
 - role2 :该角色也为项目角色。绑定"itheima.\*",意思是只能操作itheima开头的项目。
 
-  ![image-20210627000647411](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000647411.png)
+  ![image-20210627000647411](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000647411.png)
 
 保存。
 
@@ -473,11 +473,11 @@ Slave roles（奴隶角色）：节点相关的权限
 
 在系统管理页面进入Manage Users
 
-![image-20210627000743368](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000743368.png)
+![image-20210627000743368](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000743368.png)
 
 分别创建两个用户：jack和eric
 
-![image-20210627000757640](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000757640.png)
+![image-20210627000757640](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000757640.png)
 
 **给用户分配角色**
 
@@ -486,7 +486,7 @@ Slave roles（奴隶角色）：节点相关的权限
 - eric用户分别绑定baseRole和rolel角色
 - jack用户分别绑定baseRole和role2角色
 
-![image-20210627000831893](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000831893.png)
+![image-20210627000831893](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000831893.png)
 
 保存。
 
@@ -494,7 +494,7 @@ Slave roles（奴隶角色）：节点相关的权限
 
 以itcast管理员账户创建两个项目,分别为itcastOI和itheimaOl
 
-![image-20210627000848880](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000848880.png)
+![image-20210627000848880](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000848880.png)
 
 结果为:
 
@@ -509,16 +509,16 @@ Slave roles（奴隶角色）：节点相关的权限
 
 要在Jenkins使用凭证管理功能,需要安装Credentials Binding插件
 
-![image-20210627000956324](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627000956324.png)
+![image-20210627000956324](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627000956324.png)
 
 
 安装插件后*，*左边多了”凭证”菜单,在这里管理所有凭证
 
-![image-20210627001047726](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001047726.png)
+![image-20210627001047726](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001047726.png)
 
 可以添加的凭证有5种：
 
-![image-20210627001110238](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001110238.png)
+![image-20210627001110238](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001110238.png)
 
 - Username with password :用户名和密码
 - SSH Username with private key :使用SSH用户和密钥
@@ -536,7 +536,7 @@ Slave roles（奴隶角色）：节点相关的权限
 
 Git插件安装：
 
-![image-20210627001303490](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001303490.png)
+![image-20210627001303490](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001303490.png)
 
 CentOS7上安装Git工具：
 
@@ -548,50 +548,50 @@ CentOS7上安装Git工具：
 
 1 ）创建凭证
 
-![image-20210627001342726](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001342726.png)
+![image-20210627001342726](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001342726.png)
 
-![image-20210627001358472](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001358472.png)
+![image-20210627001358472](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001358472.png)
 
 选择"Username with password"，输入Gitlab的用户名和密码，点击"确定"。
 
-![image-20210627001425250](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001425250.png)
+![image-20210627001425250](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001425250.png)
 
 2）测试凭证是否可用
 
 创建一个Freestyle项目：新建ltem->FreeStyle Project->确定
 
 
-![image-20210627001458382](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001458382.png)
+![image-20210627001458382](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001458382.png)
 
 找至U"源码管理'->"Git",在Repository URL复制Gitlab中的项目URL
 
-![image-20210627001514064](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001514064.png)
+![image-20210627001514064](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001514064.png)
 
 这时会报错说无法连接仓库!在Credentials；®择刚刚添加的凭证就不报错啦
 
-![image-20210627001545931](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001545931.png)
+![image-20210627001545931](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001545931.png)
 
 保存配置后*，*点击构建"Build Now"开始构建项目
 
-![image-20210627001608574](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001608574.png)
+![image-20210627001608574](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001608574.png)
 
-![image-20210627001621527](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001621527.png)
+![image-20210627001621527](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001621527.png)
 
 查看**/var/lib/jenkins/workspace/**目录，发现已经从Gitlab成功拉取了代码至Ujenkins中。
 
-![image-20210627001714263](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001714263.png)
+![image-20210627001714263](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001714263.png)
 
 **SSH密钥类型**
 
 SSH免密登录示意图
 
-![image-20210627001731874](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001731874.png)
+![image-20210627001731874](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001731874.png)
 
 1 ）使用root用户生成公钥和私钥 
 
 > ssh-keygen -t rsa
 
-![image-20210627001822663](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001822663.png)
+![image-20210627001822663](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001822663.png)
 
 ​	id\_rsa :私钥文件
 
@@ -603,25 +603,25 @@ SSH免密登录示意图
 
 ​	复制刚才id\_rsa.pub文件的内容到这里,点击”Add Key"
 
-![image-20210627001906641](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001906641.png)
+![image-20210627001906641](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001906641.png)
 
 3 ）在Jenkins中添加凭证，配置私钥
 
 在Jenkins添加一个新的凭证，类型为"SSH Username with private key",把刚才生成私有文件内容复 制过来
 
-![image-20210627001937238](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627001937238.png)
+![image-20210627001937238](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627001937238.png)
 
 4*）*测试凭证是否可用
 
 新建"test02''项目->源码管理->Git,这次要使用Gitlab的SSH连接,并且选择SSH凭证
 
-![image-20210627002125265](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002125265.png)
+![image-20210627002125265](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002125265.png)
 
-![image-20210627002141667](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002141667.png)
+![image-20210627002141667](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002141667.png)
 
 同样尝试构建项目，如果代码可以正常拉取，代表凭证配置成功！
 
-![image-20210627002200846](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002200846.png)
+![image-20210627002200846](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002200846.png)
 
 ### 2.3.5、Maven安装和配置
 
@@ -641,7 +641,7 @@ SSH免密登录示意图
 
 > vi /etc/profile
 
-![image-20210627002259554](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002259554.png)
+![image-20210627002259554](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002259554.png)
 
 > source /etc/profifile 配置生效
 >
@@ -651,11 +651,11 @@ SSH免密登录示意图
 
 Jenkins->Global Tool Configuration->JDK->新增JDK ,配置如下：
 
-![image-20210627002351241](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002351241.png)
+![image-20210627002351241](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002351241.png)
 
 Jenkins->Global Tool Configuration->Maven->新增Maven ,配置如下:
 
-![image-20210627002411843](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002411843.png)
+![image-20210627002411843](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002411843.png)
 
 **添加Jenkins全局变量**
 
@@ -663,7 +663,7 @@ Manage Jenkins->Configure System->Global Properties，添加三个全局变量
 
 JAVAJHOME、M2JH0ME、PATH+EXTRA
 
-![image-20210627002452678](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002452678.png)
+![image-20210627002452678](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002452678.png)
 
 **修改Maven的settings.xmI**
 
@@ -682,21 +682,21 @@ JAVAJHOME、M2JH0ME、PATH+EXTRA
 使用之前的gitlab密码测试项目,修改配置
 
 
-![image-20210627002626933](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002626933.png)
+![image-20210627002626933](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002626933.png)
 
 构建->增加构建步骤->Execute Shell
 
-![image-20210627002644356](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002644356.png)
+![image-20210627002644356](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002644356.png)
 
 输入
 
 > mvn clean package
 
-![image-20210627002708685](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002708685.png)
+![image-20210627002708685](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002708685.png)
 
 再次构建，如果可以把项目打成war包,代表maven环境配置成功啦！
 
-![image-20210627002732446](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002732446.png)
+![image-20210627002732446](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002732446.png)
 
 **持续集成环境(6)-Tomcat安装和配置**
 
@@ -714,15 +714,15 @@ JAVAJHOME、M2JH0ME、PATH+EXTRA
 
 地址为：http://192.168.66.102/8080
 
-![image-20210627002847358](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002847358.png)
+![image-20210627002847358](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002847358.png)
 
 **配置Tomcat用户角色权限**
 
 默认情况FTomcat是没有配置用户角色权限的
 
-![image-20210627002921934](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002921934.png)
+![image-20210627002921934](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002921934.png)
 
-![image-20210627002937476](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002937476.png)
+![image-20210627002937476](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002937476.png)
 
 但是，后续Jenkins部署项目到Tomcat服务器,需要用到Tomcat的用户,所以修改tomcat以下配置, 添加用户及权限
 
@@ -730,7 +730,7 @@ JAVAJHOME、M2JH0ME、PATH+EXTRA
 
 内容如下：
 
-![image-20210627002957844](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627002957844.png)
+![image-20210627002957844](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627002957844.png)
 
 用户和密码都是：tomcat
 
@@ -738,7 +738,7 @@ JAVAJHOME、M2JH0ME、PATH+EXTRA
 
 > vi /opt/tomcat/webapps/manager/META-INF/context.xml
 
-![image-20210627003015101](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627003015101.png)
+![image-20210627003015101](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627003015101.png)
 
 把上面这行注释掉即可!
 
@@ -750,7 +750,7 @@ JAVAJHOME、M2JH0ME、PATH+EXTRA
 
 访问： http://192.168.66.102:8080/manager/html ，输入tomcat和tomcat，看到以下页面代表成功啦
 
-![image-20210627003056537](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627003056537.png)
+![image-20210627003056537](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627003056537.png)
 
 
 
@@ -778,13 +778,13 @@ Jenkins中自动构建项目的类型有很多,常用的有以下三种:
 
 1 )创建项目
 
-![image-20210627003503082](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627003503082.png)
+![image-20210627003503082](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627003503082.png)
 
 2 ）配置源码管理,从gitlab拉取代码
 
 ### 3.2.2、源码管理
 
-![image-20210627003517701](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627003517701.png)
+![image-20210627003517701](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627003517701.png)
 
 ### 3.2.3、编译打包
 
@@ -804,29 +804,29 @@ Jenkins中自动构建项目的类型有很多,常用的有以下三种:
 
 Jenkins本身无法实现远程部署到Tomcat的功能,需要安装Deploy to container插件实现
 
-![image-20210627003615754](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627003615754.png)
+![image-20210627003615754](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627003615754.png)
 
 2 ）添加Tomcat用户凭证
 
-![image-20210627003634962](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627003634962.png)
+![image-20210627003634962](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627003634962.png)
 
 3）添加构建后操作
 
 构建后操作
 
-![image-20210627003709734](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627003709734.png)
+![image-20210627003709734](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627003709734.png)
 
-![image-20210627003733352](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627003733352.png)
+![image-20210627003733352](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627003733352.png)
 
 点击"Build Now"，开始构建过程
 
-![image-20210627003754857](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627003754857.png)
+![image-20210627003754857](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627003754857.png)
 
 4 ) 部署成功后,访问项目
 
 http://192.168.66.102:8080/web_demo-1.0-SNAPSHOT/
 
-![image-20210627003840190](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627003840190.png)
+![image-20210627003840190](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627003840190.png)
 
 ### 3.2.5、演示改动代码后的持续集成
 
@@ -838,11 +838,11 @@ http://192.168.66.102:8080/web_demo-1.0-SNAPSHOT/
 
 1. )安装Maven Integration插件
 
-   ![image-20210627004108872](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004108872.png)
+   ![image-20210627004108872](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004108872.png)
 
 2. )创建Maven项目
 
-   ![image-20210627004126681](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004126681.png)
+   ![image-20210627004126681](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004126681.png)
 
 3. )配置项目
 
@@ -870,11 +870,11 @@ Pipeline ,简单来说，就是一套运行在Jenkins上的工作流框架，将
 
 Manage Jenkins->Manage Plugins-〉可选插件
 
-![image-20210627004248102](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004248102.png)
+![image-20210627004248102](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004248102.png)
 
 安装插件后，创建项目的时候多了“流水线”类型
 
-![image-20210627004314480](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004314480.png)
+![image-20210627004314480](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004314480.png)
 
 ### 3.4.3、Pipeline语法快速入门
 
@@ -882,11 +882,11 @@ Manage Jenkins->Manage Plugins-〉可选插件
 
 创建项目
 
-![image-20210627004346270](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004346270.png)
+![image-20210627004346270](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004346270.png)
 
 流水线->选择HelloWorld模板
 
-![image-20210627004447166](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004447166.png)
+![image-20210627004447166](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004447166.png)
 
 
 
@@ -898,23 +898,23 @@ stage :代表流水线中的某个阶段,可能岀现n个。一般分为拉取�
 
 编写一个简单声明式Pipeline :
 
-![image-20210627004606680](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004606680.png)
+![image-20210627004606680](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004606680.png)
 
 点击构建,可以看到整个构建过程
 
 
-![image-20210627004627388](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004627388.png)
+![image-20210627004627388](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004627388.png)
 
 #### 2 ) Scripted Pipeline脚本式-Pipeline
 
 创建项目
 
-![image-20210627004652529](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004652529.png)
+![image-20210627004652529](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004652529.png)
 
 
 这次选择"Scripted Pipeline”
 
-![image-20210627004716182](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004716182.png)
+![image-20210627004716182](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004716182.png)
 
 - Node :节点,—个Node就是一个Jenkins节点,Master或者Agent,是执行Step的具体运行 环境,后续讲至Jenkins的Master-Slave架构的时候用到。
 - Stage :阶段,一个Pipeline可以划分为若干个Stage ,每个Stage代表一组操作,比如： Build、Test、Deploy , Stage是一个逻辑分组的概念。
@@ -923,19 +923,19 @@ stage :代表流水线中的某个阶段,可能岀现n个。一般分为拉取�
 
 编写一个简单的脚本式Pipeline
 
-![image-20210627004746818](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004746818.png)
+![image-20210627004746818](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004746818.png)
 
 构建结果和声明式一样！
 
 **拉取代码**
 
-![image-20210627004803727](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004803727.png)
+![image-20210627004803727](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004803727.png)
 
 **编译打包**
 
-![image-20210627004819507](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004819507.png)**部署**
+![image-20210627004819507](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004819507.png)**部署**
 
-![image-20210627004847089](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004847089.png)
+![image-20210627004847089](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004847089.png)
 
 **Pipeline Script from SCM**
 
@@ -943,7 +943,7 @@ stage :代表流水线中的某个阶段,可能岀现n个。一般分为拉取�
 
 1 ）在项目根目录建立Jenkinsfile文件，把内容复制到该文件中
 
-![image-20210627004909613](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004909613.png)
+![image-20210627004909613](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004909613.png)
 
 ​	把Jenkinsfile上传到 Gitlab
 
@@ -951,7 +951,7 @@ stage :代表流水线中的某个阶段,可能岀现n个。一般分为拉取�
 
 流水线
 
-![image-20210627004947394](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627004947394.png)
+![image-20210627004947394](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627004947394.png)
 
 ## 3.5、常用的构建触发器
 
@@ -971,7 +971,7 @@ Jenkins内置4种构建触发器:
 
 ### 3.5.1、触发远程构建
 
-![image-20210627005208562](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627005208562.png)
+![image-20210627005208562](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627005208562.png)
 
 触发构建url : http://192.168.66.101:8888/job/web_demo_pipeline/build?token=6666
 
@@ -979,15 +979,15 @@ Jenkins内置4种构建触发器:
 
 1 ）创建pre\_job流水线工程
 
-![image-20210627005446212](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627005446212.png)
+![image-20210627005446212](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627005446212.png)
 
 2 )配置需要触发的工程
 
-![image-20210627005506568](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627005506568.png)
+![image-20210627005506568](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627005506568.png)
 
 ### 3.5.3、定时构建
 
-![image-20210627005550098](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627005550098.png)
+![image-20210627005550098](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627005550098.png)
 
 **定时字符串从左往右分别为：分时日月周**
 
@@ -1011,7 +1011,7 @@ Jenkins内置4种构建触发器:
 
 轮询SCM ,是指定时扫描本地代码仓库的代码是否有变更,如果代码有变更就触发项目构建。
 
-![image-20210627005753100](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627005753100.png)
+![image-20210627005753100](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627005753100.png)
 
 注意:这次构建触发器,Jenkins会定时扫描本土也整个项目的代码,增大系统的开销，不建议使用。
 
@@ -1021,7 +1021,7 @@ Jenkins内置4种构建触发器:
 
 轮询SCM原理示意图
 
-![image-20210627005929165](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627005929165.png)
+![image-20210627005929165](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627005929165.png)
 
 #### 3.5.5.1、安装Gitlab Hook插件
 
@@ -1029,11 +1029,11 @@ Jenkins内置4种构建触发器:
 
 **Gitlab Hook和GitLab**
 
-![image-20210627005949685](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627005949685.png)
+![image-20210627005949685](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627005949685.png)
 
 #### 3.5.5.2、Jenkins设置自动构建
 
-![image-20210627010006593](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010006593.png)
+![image-20210627010006593](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010006593.png)
 
 等会需要把生成的webhook URL配置到Gitlab中。
 
@@ -1045,19 +1045,19 @@ Jenkins内置4种构建触发器:
 
 勾选"Allow requests to the local network from web hooks and services"
 
-![image-20210627010214124](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010214124.png)
+![image-20210627010214124](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010214124.png)
 
 2 )在项目添加webhook
 
 点击项目->Settings->lntegrations
 
-![image-20210627010236836](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010236836.png)
+![image-20210627010236836](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010236836.png)
 
 注意：以下设置必须完成,否则会报错!
 
 Manage Jenkins->Configure System
 
-![image-20210627010257077](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010257077.png)
+![image-20210627010257077](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010257077.png)
 
 ### 3.5.6、Jenkins的参数化构建
 
@@ -1065,37 +1065,37 @@ Manage Jenkins->Configure System
 
 Jenkins支持非常丰富的参数类型
 
-![image-20210627010657409](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010657409.png)
+![image-20210627010657409](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010657409.png)
 
 
 接下来演示通过输入gitlab项目的分支名称来部署不同分支项目。
 
 #### 3.5.6.1、项目创建分支,并推送到Gitlab上
 
-![image-20210627010732985](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010732985.png)
+![image-20210627010732985](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010732985.png)
 
 
 新建分支:V1 ,代码稍微改动下,然后提交到gitlab上。
 
 这时看到gitlab上有一个两个分支:master和v1
 
-![image-20210627010745027](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010745027.png)
+![image-20210627010745027](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010745027.png)
 
 #### 3.5.6.2、在Jenkins添加字符串类型参数
 
-![image-20210627010803372](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010803372.png)
+![image-20210627010803372](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010803372.png)
 
-![image-20210627010811546](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010811546.png)
+![image-20210627010811546](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010811546.png)
 
 #### 3.5.6.3、改动pipeline流水线代码
 
-![image-20210627010823735](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010823735.png)
+![image-20210627010823735](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010823735.png)
 
 
 
 #### 3.5.6.4、点击Build with Parameters
 
-![image-20210627010852932](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010852932.png)
+![image-20210627010852932](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010852932.png)
 
 输入分支名称，构建即可！构建完成后访问Tomcat查看结果
 
@@ -1103,47 +1103,47 @@ Jenkins支持非常丰富的参数类型
 
 #### 3.5.7.1、安装Email Extension插件
 
-![image-20210627010956122](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627010956122.png)
+![image-20210627010956122](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627010956122.png)
 
 #### 3.5.7.2、Jenkins设置邮箱相关参数
 
-![image-20210627011036576](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627011036576.png)
+![image-20210627011036576](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627011036576.png)
 
 - 设置邮件参数
 
 
-![image-20210627011047984](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627011047984.png)
+![image-20210627011047984](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627011047984.png)
 
 - 设置Jenkins默认邮箱信息
 
 
-![image-20210627011106679](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627011106679.png)
+![image-20210627011106679](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627011106679.png)
 
 #### 3.5.7.3、准备邮件内容
 
 ​	在项目根目录编写email.html ,并把文件推送到Gitlab ,内容如下：
 
-![image-20210627011145468](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627011145468.png)
+![image-20210627011145468](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627011145468.png)
 
-![image-20210627011420206](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627011420206.png)
+![image-20210627011420206](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627011420206.png)
 
-![image-20210627011437399](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627011437399.png)
+![image-20210627011437399](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627011437399.png)
 
 #### 3.5.7.4、编写Jenkinsfile添加构建后发送邮件
 
-![image-20210627011541320](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627011541320.png)
+![image-20210627011541320](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627011541320.png)
 
-![image-20210627011553903](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627011553903.png)
+![image-20210627011553903](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627011553903.png)
 
 #### 3.5.7.5、测试
 
-![image-20210627011626521](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627011626521.png)
+![image-20210627011626521](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627011626521.png)
 
 PS :邮件相关全局参数参考列表：
 
 系统设置->Extended E-mail Notification->ContentToken Reference ,点击旁边的?号
 
-![image-20210627011647632](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627011647632.png)
+![image-20210627011647632](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627011647632.png)
 
 ## 3.6、Jenkins+SonarQube代码审查
 
@@ -1172,7 +1172,7 @@ SonarQube是一个用于管理代码质量的开放平台,可以快速的定位�
 
 在MySQL创建sonar数据库
 
-![image-20210627011920987](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627011920987.png)
+![image-20210627011920987](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627011920987.png)
 
 下载sonar压缩包：
 
@@ -1224,13 +1224,13 @@ https://www.sonarqube.org/downloads/
 
 http://192.168.66.101:9000
 
-![image-20210627012114461](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627012114461.png)
+![image-20210627012114461](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627012114461.png)
 
 默认账户:admin/admin
 
 创建token
 
-![image-20210627012134006](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627012134006.png)
+![image-20210627012134006](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627012134006.png)
 
 > bb8b6c53d9d921 e101343cef0395243e6c1dc8a3
 
@@ -1240,47 +1240,47 @@ token要记下来后面要使用
 
 ### 3.6.2、实现代码审査
 
-![image-20210627012311659](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627012311659.png)
+![image-20210627012311659](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627012311659.png)
 
 #### 3.6.2.1、安装SonarQube Scanner插件
 
-![image-20210627012326304](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627012326304.png)
+![image-20210627012326304](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627012326304.png)
 
 #### 3.6.2.2、添加SonarQube凭证
 
-![image-20210627012400973](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627012400973.png)**Jenkins进行SonarQube 配置**
+![image-20210627012400973](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627012400973.png)**Jenkins进行SonarQube 配置**
 
-![image-20210627012538354](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627012538354.png)
+![image-20210627012538354](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627012538354.png)
 
 #### 3.6.2.3、SonaQube关闭审查结果上传到SCM功能
 
-- ![image-20210627012621514](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627012621514.png)
+- ![image-20210627012621514](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627012621514.png)
 
 #### 3.6.2.4、在项目添加SonaQube代码审查（非流水线项目）
 
 添加构建步骤：
 
-![image-20210627012709960](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627012709960.png)
+![image-20210627012709960](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627012709960.png)
 
 #### 3.6.2.5、在项目添加SonaQube代码审查（流水线项目）
 
 1 ）项目根目录下，创建sonar-project.properties文件
 
-![image-20210627012736458](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627012736458.png)
+![image-20210627012736458](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627012736458.png)
 
 2）修改Jenkinsfifile，加入SonarQube代码审查阶段
 
-![image-20210627012833579](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627012833579.png)
+![image-20210627012833579](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627012833579.png)
 
 3 ）到SonarQube的Ul界面查看审查结果
 
-![image-20210627012851011](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627012851011.png)
+![image-20210627012851011](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627012851011.png)
 
 # 4、Jenkins+Docker+SpringCloud微服务持续集成（上）
 
 ## 4.1、Jenkins+Docker+SpringCloud 持续集成流程说明
 
-![image-20210627013025459](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627013025459.png)
+![image-20210627013025459](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627013025459.png)
 
 大致流程说明：
 
@@ -1306,7 +1306,7 @@ token要记下来后面要使用
 
 微服务项目结构：
 
-![image-20210627013305175](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627013305175.png)
+![image-20210627013305175](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627013305175.png)
 
 - tensquare\_parent :父工程,存放基础配置
 - tensquare\_common :通用工程,存放工具类
@@ -1317,7 +1317,7 @@ token要记下来后面要使用
 
 数据库结构：
 
-![image-20210627013332992](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627013332992.png)
+![image-20210627013332992](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627013332992.png)
 
 - tensquare\_user :用户认证数据库，存放用户账户数据。对应tensquare\_admin\_service微服务
 - tensquare\_gathering :活动微服务数据库。对应tensquarjgathering微服务
@@ -1344,7 +1344,7 @@ token要记下来后面要使用
 
 必须导入该插件
 
-![image-20210627013454036](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627013454036.png)
+![image-20210627013454036](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627013454036.png)
 
 打包后在ta rget下产生jar包
 
@@ -1384,7 +1384,7 @@ token要记下来后面要使用
 
 #### 4.4.1.1、Docker简介
 
-![image-20210627013912051](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627013912051.png)
+![image-20210627013912051](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627013912051.png)
 
 Docker是一个开源的应用容器引擎,基于Go语言并遵从Apache2.0协议开源。
 
@@ -1394,7 +1394,7 @@ Docker可以让开发者打包他们的应用以及依赖包到一个轻量级�
 
 Docker容器技术 vs 传统虚拟机技术
 
-![image-20210627013956003](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627013956003.png)
+![image-20210627013956003](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627013956003.png)
 
 |                  | **虚拟机**                    | **容器**               |
 | :--------------- | :---------------------------- | :--------------------- |
@@ -1429,7 +1429,7 @@ Docker容器技术 vs 传统虚拟机技术
 
 > yum list docker-ce -showduplicates | sort -r
 
-![image-20210627014304576](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627014304576.png)5）安装指定版本（这里使用18.0.1版本)
+![image-20210627014304576](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627014304576.png)5）安装指定版本（这里使用18.0.1版本)
 
 > sudo yum install docker-ce-18.06.1 .ce
 
@@ -1449,7 +1449,7 @@ Docker容器技术 vs 传统虚拟机技术
 
 内容如下：
 
-![image-20210627014352701](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627014352701.png)
+![image-20210627014352701](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627014352701.png)
 
 9 ）重启Docker
 
@@ -1527,7 +1527,7 @@ Dockerfile其实就是我们用来构建Docker镜像的源码,当然这不是所
 
 镜像构建示意图：
 
-![image-20210627014837086](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627014837086.png)
+![image-20210627014837086](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627014837086.png)
 
 可以看到,新镜像是从基础镜像一层一层叠加生成的。每安装一个软件，就在现有镜像的基础上增加 	 层
 
@@ -1541,7 +1541,7 @@ Dockerfile其实就是我们用来构建Docker镜像的源码,当然这不是所
 
 以下是mysql官方镜像的Dockerfile示例：
 
-![image-20210627014929835](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627014929835.png)
+![image-20210627014929835](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627014929835.png)
 
 #### 4.4.2.3、使用Dockerfile制作微服务镜像
 
@@ -1551,7 +1551,7 @@ Dockerfile其实就是我们用来构建Docker镜像的源码,当然这不是所
 
 1. ）编写Dockerfile
 
-   ![image-20210627015022793](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627015022793.png)
+   ![image-20210627015022793](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627015022793.png)
 
 1. ）构建镜像
 
@@ -1572,7 +1572,7 @@ Dockerfile其实就是我们用来构建Docker镜像的源码,当然这不是所
 ### 4.4.3、Harbor镜像仓库安装及使用
 
 4.7.1、Harbor简介
-![image-20210627015659781](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627015659781.png)
+![image-20210627015659781](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627015659781.png)
 
 Harbor （港口 ,港湾）是一个用于存储和分发Docker镜像的企业级Registry服务器。
 
@@ -1645,7 +1645,7 @@ http://192.168.66.102:85
 
 默认账户密码：admin/Harbor12345
 
-![image-20210627020518380](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627020518380.png)
+![image-20210627020518380](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627020518380.png)
 
 #### 4.4.3.2、在Harbor创建用户和项目
 
@@ -1659,13 +1659,13 @@ Harbor的项目分为公开和私有的：
 
 我们可以为微服务项目创建一个新的项目：
 
-![image-20210627020651865](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627020651865.png)
+![image-20210627020651865](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627020651865.png)
 
 2）创建用户
 
-![image-20210627020713076](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627020713076.png)
+![image-20210627020713076](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627020713076.png)
 
-![image-20210627020731893](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627020731893.png)
+![image-20210627020731893](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627020731893.png)
 
 创建的用户为：itcast/ltcast123
 
@@ -1673,9 +1673,9 @@ Harbor的项目分为公开和私有的：
 
 进Atensqua re项目-> 成员
 
-![image-20210627020810261](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627020810261.png)
+![image-20210627020810261](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627020810261.png)
 
-![image-20210627020848146](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627020848146.png)
+![image-20210627020848146](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627020848146.png)
 
 | **角色**   | **权限说明**                                      |
 | :--------- | :------------------------------------------------ |
@@ -1686,7 +1686,7 @@ Harbor的项目分为公开和私有的：
 
 4 ）以新用户登录Harbor
 
-![image-20210627020907213](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627020907213.png)
+![image-20210627020907213](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627020907213.png)
 
 #### 4.4.3.3、把镜像上传到Harbor
 
@@ -1698,7 +1698,7 @@ Harbor的项目分为公开和私有的：
 
 > docker push 192.168.66.102:85/tensquare/eureka:v1
 
-![image-20210627020949381](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627020949381.png)
+![image-20210627020949381](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627020949381.png)
 
 这时会岀现以上报错,是因为Docker没有把Harbor加入信任列表中
 
@@ -1706,7 +1706,7 @@ Harbor的项目分为公开和私有的：
 
 > vi /etc/docker/daemon.json
 
-![image-20210627021045344](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627021045344.png)
+![image-20210627021045344](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627021045344.png)
 
 ​	需要重启Docker
 
@@ -1720,9 +1720,9 @@ Harbor的项目分为公开和私有的：
 
 > docker login -u 用户名-p 密码 192.168.66.102:85
 
-![image-20210627021137709](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627021137709.png)
+![image-20210627021137709](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627021137709.png)
 
-![image-20210627021153460](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627021153460.png)
+![image-20210627021153460](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627021153460.png)
 
 #### 4.4.3.4、从Harbor下载镜像
 
@@ -1734,7 +1734,7 @@ Harbor的项目分为公开和私有的：
 
    > vi /etc/docker/daemon.json
 
-   ![image-20210627021351538](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627021351538.png)
+   ![image-20210627021351538](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627021351538.png)
 
 1. ）先登录，再从Harbor下载镜像
 
@@ -1746,33 +1746,33 @@ Harbor的项目分为公开和私有的：
 
 ### 4.5.1、项目代码上传到Gitlab
 
-![image-20210627021545898](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627021545898.png)
+![image-20210627021545898](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627021545898.png)
 
 ### 4.5.2、从Gitlab拉取项目源码
 
 1 )创建Jenkinsfile文件
 
-![image-20210627021806139](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627021806139.png)
+![image-20210627021806139](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627021806139.png)
 
 2 ）拉取Jenkinsfile文件
 
-![image-20210627021832552](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627021832552.png)
+![image-20210627021832552](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627021832552.png)
 
 ### 4.5.3、提交到SonarQube代码审查
 
 1 ）创建项目,并设置参数
 
-![image-20210627022011030](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022011030.png)
+![image-20210627022011030](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022011030.png)
 
 2 ）每个项目的根目录下添加sonar-project.properties
 
-![image-20210627022031011](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022031011.png)
+![image-20210627022031011](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022031011.png)
 
 注意：修改sonar.projectKey和sonar.projectName
 
 3 )修改Jenkinsfile构建脚本
 
-![image-20210627022057320](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022057320.png)
+![image-20210627022057320](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022057320.png)
 
 ### 4.5.4、使用Dockerfile编译、生成镜像
 
@@ -1780,17 +1780,17 @@ Harbor的项目分为公开和私有的：
 
 1. ) 在每个微S艮务项目的pom.xml加入dockerfile-maven-plugin插件
 
-![image-20210627022149572](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022149572.png)
+![image-20210627022149572](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022149572.png)
 
 2. )在每个微0艮务项目根目录下建立Dockerfile文件
 
-   ![image-20210627022241360](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022241360.png)
+   ![image-20210627022241360](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022241360.png)
 
    注意：每个项目公开的端口不一样
 
 3. )修改Jenkinsfile构建脚本
 
-![image-20210627022313745](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022313745.png)
+![image-20210627022313745](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022313745.png)
 
 注意:如果出现找不到父工程依赖,需要手动把父工程的依赖上传到仓库中
 
@@ -1798,25 +1798,25 @@ Harbor的项目分为公开和私有的：
 
 1 )修改Jenkinsfile构建脚本
 
-/![image-20210627022437786](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022437786.png)
+/![image-20210627022437786](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022437786.png)
 
-![image-20210627022449382](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022449382.png)
+![image-20210627022449382](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022449382.png)
 
 2 )使用凭证管理Harbor私鼬户和密码
 
 先在凭证建立Harbor的凭证，在生成凭证脚本代码
 
-![image-20210627022510724](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022510724.png)
+![image-20210627022510724](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022510724.png)
 
 ### 4.5.6、拉取镜像和发布应用
 
-![image-20210627022542739](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022542739.png)
+![image-20210627022542739](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022542739.png)
 
 注意：192.168.66.103服务已经安装Docker并启动
 
 **安装 Publish Over SSH 插件** 
 
-![image-20210627022601690](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022601690.png)
+![image-20210627022601690](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022601690.png)
 
 **配置远程部署服务器**
 
@@ -1826,30 +1826,30 @@ Harbor的项目分为公开和私有的：
 
 2 ）系统配置-＞添加远程服务器
 
-![image-20210627022633112](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022633112.png)
+![image-20210627022633112](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022633112.png)
 
 
 **修改Jenkinsfile构建脚本**
 
 生成远程调用模板代码
 
-![image-20210627022725448](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022725448.png)
+![image-20210627022725448](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022725448.png)
 
 添加一个port参数
 
-![image-20210627022751033](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627022751033.png)
+![image-20210627022751033](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627022751033.png)
 
-![image-20210627023002535](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627023002535.png)
+![image-20210627023002535](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627023002535.png)
 
-![image-20210627023028610](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627023028610.png)
+![image-20210627023028610](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627023028610.png)
 
-![image-20210627023109503](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627023109503.png)
+![image-20210627023109503](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627023109503.png)
 
 **编写deploy.sh部署脚本**
 
-![image-20210627023445620](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627023445620.png)
+![image-20210627023445620](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627023445620.png)
 
-![image-20210627023504056](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627023504056.png)
+![image-20210627023504056](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627023504056.png)
 
 上传deploy.sh文件到/opt/jenkins\_shell目录下,且文件至少有执行权限！
 
@@ -1857,11 +1857,11 @@ Harbor的项目分为公开和私有的：
 
 **导入数据，测试微服务**
 
-![image-20210627023530923](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627023530923.png)
+![image-20210627023530923](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627023530923.png)
 
 ### 4.5.7、部署前端静态web网站
 
-![image-20210627023617029](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627023617029.png)
+![image-20210627023617029](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627023617029.png)
 
 #### 4.5.7.1、安装Nginx服务器
 
@@ -1873,7 +1873,7 @@ Harbor的项目分为公开和私有的：
 
 > vi /etc/nginx/nginx.conf
 
-![image-20210627023649856](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627023649856.png)
+![image-20210627023649856](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627023649856.png)
 
 还需要关闭selinux ,将SELINUX=disabled
 
@@ -1893,11 +1893,11 @@ Harbor的项目分为公开和私有的：
 
 访问：http://192.168.66.103:9090/
 
-![image-20210627023803049](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627023803049.png)
+![image-20210627023803049](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627023803049.png)
 
 #### 4.5.7.2、安装NodeJS插件
 
-![image-20210627023906132](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627023906132.png)
+![image-20210627023906132](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627023906132.png)
 
 
 
@@ -1905,19 +1905,19 @@ Harbor的项目分为公开和私有的：
 
 Manage Jenkins->Globa I Tool Configuration
 
-![image-20210627023932133](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627023932133.png)
+![image-20210627023932133](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627023932133.png)
 
 
 
 #### 4.5.7.4、创建前端流水线项目
 
-![image-20210627024134980](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627024134980.png)
+![image-20210627024134980](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627024134980.png)
 
-![image-20210627024144655](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627024144655.png)
+![image-20210627024144655](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627024144655.png)
 
 #### 4.5.7.5、建立Jenkinsfile构建脚本
 
-/![image-20210627024206968](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627024206968.png)
+/![image-20210627024206968](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627024206968.png)
 
 完成后，访问：http://192.168.66.103:9090 进行测试。
 
@@ -1942,13 +1942,13 @@ Manage Jenkins->Globa I Tool Configuration
 ## 5.2、Jenkins+Docker+SpringCloud集群部署流程说明
 
 
-![image-20210627024502740](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627024502740.png)
+![image-20210627024502740](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627024502740.png)
 
 ## 5.3、修改所有微服务配置
 
 ### 5.3.1、注册中心配置（\*）
 
-![image-20210627024616029](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627024616029.png)
+![image-20210627024616029](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627024616029.png)
 
 在启动微服务的时候，加入参数: **spring.profifiles.active** 来读取对应的配置
 
@@ -1956,7 +1956,7 @@ Manage Jenkins->Globa I Tool Configuration
 
 除了Eureka注册中心以外,其他微服务配置都需要加入所有Eureka服务
 
-![image-20210627024732230](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627024732230.png)
+![image-20210627024732230](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627024732230.png)
 
 把代码提交到Gitlab中
 
@@ -1966,37 +1966,37 @@ Manage Jenkins->Globa I Tool Configuration
 
 支持多选框
 
-![image-20210627024838962](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627024838962.png)
+![image-20210627024838962](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627024838962.png)
 
 ### 5.4.2、创建流水线项目
 
-![image-20210627024852526](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627024852526.png)
+![image-20210627024852526](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627024852526.png)
 
 ### 5.4.3、添加参数
 
 字符串参数:分支名称
 
-![image-20210627024913339](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627024913339.png)
+![image-20210627024913339](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627024913339.png)
 
 多选框：项目名称
 
-![image-20210627024924945](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627024924945.png)
+![image-20210627024924945](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627024924945.png)
 
-![image-20210627024936535](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627024936535.png)
+![image-20210627024936535](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627024936535.png)
 
 ### 5.4.4、最后效果
 
-![image-20210627025042509](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025042509.png)
+![image-20210627025042509](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025042509.png)
 
 ## 5.5、完成微服务构建镜像，上传私服
 
-![image-20210627025130962](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025130962.png)
+![image-20210627025130962](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025130962.png)
 
-![image-20210627025144397](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025144397.png)
+![image-20210627025144397](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025144397.png)
 
-![image-20210627025209031](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025209031.png)
+![image-20210627025209031](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025209031.png)
 
-![image-20210627025231539](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025231539.png)
+![image-20210627025231539](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025231539.png)
 
 ## 5.6、完成微服务多服务器远程发布
 
@@ -2010,11 +2010,11 @@ Manage Jenkins->Globa I Tool Configuration
 - 系统配置-> 添加远倒艮务器
 
 
-![image-20210627025327573](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025327573.png)
+![image-20210627025327573](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025327573.png)
 
 ### 5.6.2、修改Docker配置信任Harbor私服地址
 
-![image-20210627025400705](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025400705.png)
+![image-20210627025400705](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025400705.png)
 
 重启Docker
 
@@ -2023,35 +2023,35 @@ Manage Jenkins->Globa I Tool Configuration
 多选框：部署服务器
 
 
-![image-20210627025437983](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025437983.png)
+![image-20210627025437983](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025437983.png)
 
-![image-20210627025450976](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025450976.png)
+![image-20210627025450976](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025450976.png)
 
 最终效果
 
-![image-20210627025530772](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025530772.png)
+![image-20210627025530772](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025530772.png)
 
 ### 5.6.4、修改Jenkinsfile构建脚本
 
-![image-20210627025658494](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025658494.png)
+![image-20210627025658494](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025658494.png)
 
-![image-20210627025715096](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025715096.png)
+![image-20210627025715096](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025715096.png)
 
-![image-20210627025735563](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025735563.png)
+![image-20210627025735563](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025735563.png)
 
-![image-20210627025754708](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025754708.png)
+![image-20210627025754708](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025754708.png)
 
 ### 5.6.5、编写deployCluster.sh部署脚本
 
-![image-20210627025845033](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025845033.png)
+![image-20210627025845033](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025845033.png)
 
-![image-20210627025855546](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025855546.png)
+![image-20210627025855546](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025855546.png)
 
 ### 5.6.6、集群效果
 
 **Nginx+Zuul集群实现高可用网关**
 
-![image-20210627025953239](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627025953239.png)
+![image-20210627025953239](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627025953239.png)
 
 1. ）安装Nginx （已完成）
 
@@ -2061,15 +2061,15 @@ Manage Jenkins->Globa I Tool Configuration
    
    ​	内容如下：
 
-![image-20210627030029436](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627030029436.png)
+![image-20210627030029436](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627030029436.png)
 
-![image-20210627030037445](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627030037445.png)
+![image-20210627030037445](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627030037445.png)
 
 3. ）重启Nginx : systemctI restart nginx
 
 4. ）修改前端Nginx的访问地址
 
-   ![image-20210627030258502](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627030258502.png)
+   ![image-20210627030258502](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627030258502.png)
 
 
 
@@ -2080,7 +2080,7 @@ Manage Jenkins->Globa I Tool Configuration
 ### 6.1.1、什么是Master-Slave分布式构建
 
 
-![image-20210627030514105](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627030514105.png)
+![image-20210627030514105](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627030514105.png)
 
 Jenkins的Master-Slave分布式构建,就是通过将构建过程分配至11从属Slave节点上,从而减轻Master节 点的压力,而且可以同时构建多个,有点类似负载均衡的概念。
 
@@ -2088,17 +2088,17 @@ Jenkins的Master-Slave分布式构建,就是通过将构建过程分配至11从�
 
 #### 6.1.2.1 、 开启代理程序的TCP端口
 
-![image-20210627030625125](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627030625125.png)
+![image-20210627030625125](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627030625125.png)
 
 #### 6.1.2.2 、 新建节点
 
-![image-20210627030647793](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627030647793.png)
+![image-20210627030647793](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627030647793.png)
 
-![image-20210627030658967](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627030658967.png)
+![image-20210627030658967](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627030658967.png)
 
 有两种在Slave节点连接Master节点的方法
 
-![image-20210627030720450](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627030720450.png)
+![image-20210627030720450](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627030720450.png)
 
 我们选择第二种:
 
@@ -2106,21 +2106,21 @@ Jenkins的Master-Slave分布式构建,就是通过将构建过程分配至11从�
 
 下载agent.jar,并上传到Slave节点,然后执行页面提示的命令：
 
-![image-20210627030910842](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627030910842.png)
+![image-20210627030910842](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627030910842.png)
 
 刷新页面
 
-![image-20210627030943932](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627030943932.png)
+![image-20210627030943932](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627030943932.png)
 
 #### 6.1.2.4 、测试节点是否可用
 
 自由风格和Maven风格的项目：
 
-![image-20210627031035753](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627031035753.png)
+![image-20210627031035753](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627031035753.png)
 
 流水线风格的项目：
 
-![image-20210627031053032](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627031053032.png)
+![image-20210627031053032](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627031053032.png)
 
 ## 6.2、Kubernetes实现Master-SIave分布式构建方案
 
@@ -2158,9 +2158,9 @@ Jenkins的Master-Slave分布式构建,就是通过将构建过程分配至11从�
 
 ### 6.2.3、Kubernates+Docker+Jenkins 持续集成架构图
 
-![image-20210627031524073](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627031524073.png)
+![image-20210627031524073](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627031524073.png)
 
-![image-20210627031531942](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627031531942.png)
+![image-20210627031531942](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627031531942.png)
 
 ​		大致工作流程：手动/自动构建-> Jenkins调度K8S API - >动态生成Jenkins Slave pod - > Slave pod 拉取Git代码/编译/打包镜像->推送到镜像仓库Harbor-> Slave工作完成,Pod自动销毁->部署 到测试或生产Kubernetes平台。(完全自动化,无需人工干预)
 
@@ -2179,7 +2179,7 @@ Jenkins的Master-Slave分布式构建,就是通过将构建过程分配至11从�
 
 ### 6.3.1、Kubernetes 的架构
 
-![image-20210627031746504](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627031746504.png)
+![image-20210627031746504](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627031746504.png)
 
 - API Server :用于暴露Kubernetes API ,任何资源的请求的调用操作都是通过kube-apiserver提供的接 口进行的。
 
@@ -2254,7 +2254,7 @@ Jenkins的Master-Slave分布式构建,就是通过将构建过程分配至11从�
 - kube-proxy开启ipvs的前置条件
 
 
-![image-20210627032359799](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627032359799.png)
+![image-20210627032359799](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627032359799.png)
 
 - 所有节点关闭swap
 
@@ -2280,7 +2280,7 @@ Jenkins的Master-Slave分布式构建,就是通过将构建过程分配至11从�
 
 设置yum安装源
 
-![image-20210627032627094](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627032627094.png)
+![image-20210627032627094](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627032627094.png)
 
 安装：
 
@@ -2300,7 +2300,7 @@ kubelet设置开机启动（注意：先不启动，现在启动的话会报错�
 
 #### 1 ）运行初始化命令
 
-![image-20210627032951462](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627032951462.png)
+![image-20210627032951462](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627032951462.png)
 
 注意:apiserver-advertise-address这个地址必须是master机器的IP
 
@@ -2312,7 +2312,7 @@ kubelet设置开机启动（注意：先不启动，现在启动的话会报错�
 
 解决方案：修改Docker的酉己置:vi /etc/docker/daemon.json ,加入
 
-![image-20210627033040341](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033040341.png)
+![image-20210627033040341](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033040341.png)
 
 然后重启Docker
 
@@ -2320,30 +2320,30 @@ kubelet设置开机启动（注意：先不启动，现在启动的话会报错�
 
 解决方案：修改虚拟机的CPU的个数，至少为2个
 
-![image-20210627033132772](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033132772.png)
+![image-20210627033132772](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033132772.png)
 
 安装过程日志：
 
-![image-20210627033200491](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033200491.png)
+![image-20210627033200491](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033200491.png)
 
 
 最后，会提示节点安装的命令，必须记下来
 
-![image-20210627033215219](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033215219.png)
+![image-20210627033215219](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033215219.png)
 
 #### 2 )  启动kubelet
 
 > systemctl restart kubelet
 
-![image-20210627033311453](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033311453.png)
+![image-20210627033311453](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033311453.png)
 
 #### 3）配置kubectl工具
 
-![image-20210627033335908](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033335908.png)
+![image-20210627033335908](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033335908.png)
 
 #### 4)   安装Calico
 
-![image-20210627033352984](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033352984.png)
+![image-20210627033352984](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033352984.png)
 
 #### 5 ）查看所有Pod的状态
 
@@ -2351,7 +2351,7 @@ kubelet设置开机启动（注意：先不启动，现在启动的话会报错�
 
 > kubectl get pod --all-namespaces -o wide
 
-![image-20210627033525055](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033525055.png)
+![image-20210627033525055](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033525055.png)
 
 ### 6.3.5、Slave节点需要完成
 
@@ -2359,13 +2359,13 @@ kubelet设置开机启动（注意：先不启动，现在启动的话会报错�
 
 使用之前Master节点产生的命令加入集群
 
-![image-20210627033616634](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033616634.png)
+![image-20210627033616634](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033616634.png)
 
 #### 2 )  启动kubelet
 
 > systemctl start kubelet
 
-![image-20210627033645544](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033645544.png)
+![image-20210627033645544](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033645544.png)
 
 #### 3 ）Master节点査看
 
@@ -2373,7 +2373,7 @@ kubelet设置开机启动（注意：先不启动，现在启动的话会报错�
 
 > kubectl get nodes
 
-![image-20210627033740834](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033740834.png)
+![image-20210627033740834](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033740834.png)
 
 ### 6.3.6、kubectl常用命令
 
@@ -2399,7 +2399,7 @@ kubelet设置开机启动（注意：先不启动，现在启动的话会报错�
 
 Jenkins-Master-Slave架构图回顾：
 
-![image-20210627033950864](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627033950864.png)
+![image-20210627033950864](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627033950864.png)
 
 ## 7.1、安装和配置NFS
 
@@ -2441,11 +2441,11 @@ NFS ( Network File System ),它最大的功能就是可以通过网络,让不同
 
 1 )上传nfs-client-provisioner构建文件
 
-![image-20210627034306222](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627034306222.png)
+![image-20210627034306222](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627034306222.png)
 
 其中注意修改deployment.yaml，使用之前配置NFS服务器和目录
 
-![image-20210627034329181](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627034329181.png)
+![image-20210627034329181](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627034329181.png)
 
 2 ）构建nfs-client-provisioner的pod资源
 
@@ -2455,23 +2455,23 @@ NFS ( Network File System ),它最大的功能就是可以通过网络,让不同
 
 3 ）查看pod是否创建成功
 
-![image-20210627034451731](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627034451731.png)
+![image-20210627034451731](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627034451731.png)
 
 ### 7.2.2、安装Jenkins-Master
 
 #### 1 ）上传Jenkins-Master构建文件
 
-![image-20210627034556721](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627034556721.png)
+![image-20210627034556721](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627034556721.png)
 
 其中有两点注意:
 
 第一、在StatefulSet.yaml文件，声明了利用nfs-client-provisioner进行Jenkins-Master文件存储
 
-![image-20210627034621319](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627034621319.png)
+![image-20210627034621319](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627034621319.png)
 
 第二、Service发布方法采用NodePort,会随机产生节点访问端口
 
-![image-20210627034643446](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627034643446.png)
+![image-20210627034643446](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627034643446.png)
 
 #### 2 ) 创建kube-ops的namespace
 
@@ -2493,17 +2493,17 @@ NFS ( Network File System ),它最大的功能就是可以通过网络,让不同
 
 > kubectl describe pods -n kube-ops
 
-![image-20210627034759719](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627034759719.png)
+![image-20210627034759719](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627034759719.png)
 
 ​	查看分配的端口
 
 > kubectl get service -n kube-ops
 
-![image-20210627034920367](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627034920367.png)
+![image-20210627034920367](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627034920367.png)
 
 ​	最终访问地址为：http://192.168.66.103:30136 （192.168.66.103为k8s-node1的IP）
 
-![image-20210627034950772](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627034950772.png)
+![image-20210627034950772](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627034950772.png)
 
 ​	安装过程跟之前是一样的！
 
@@ -2520,13 +2520,13 @@ NFS ( Network File System ),它最大的功能就是可以通过网络,让不同
 
 系统管理->插件管理->可选插件
 
-![image-20210627035243269](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627035243269.png)
+![image-20210627035243269](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627035243269.png)
 
 ### 7.3.2、实现Jenkins与Kubernetes整合
 
 系统管理-> 系统配置-> 云-> 新建云-> Kubernetes
 
-![image-20210627035359690](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627035359690.png)
+![image-20210627035359690](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627035359690.png)
 
 
 - kubernetes地用了kube白勺月艮务器发现:<https://kubemetes.default.svc.cluster.local>
@@ -2539,31 +2539,31 @@ Jenkins-Master在构建Job的时候,Kubernetes会创建Jenkins-Slave的Pod来完
 
 准备材料：
 
-![image-20210627035559896](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627035559896.png)
+![image-20210627035559896](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627035559896.png)
 
 Dockerfile文件内容如下：
 
-![image-20210627035613708](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627035613708.png)
+![image-20210627035613708](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627035613708.png)
 
 构建出一个新镜像:jenkins-slave-maven:latest
 
 然把镜像上传到Harbor的公共库library中
 
-![image-20210627035644827](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627035644827.png)
+![image-20210627035644827](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627035644827.png)
 
 ## 7.5、测试Jenkins-Slave是否可以创建
 
 ### 7.5.1、创建一个Jenkins流水线项目
 
-![image-20210627035725804](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627035725804.png)
+![image-20210627035725804](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627035725804.png)
 
 ### 7.5.2、编写Pipeline ,从Gltlab拉取代码
 
-![image-20210627035748471](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627035748471.png)
+![image-20210627035748471](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627035748471.png)
 
 ### 7.5.3、查看构建日志
 
-![image-20210627035833957](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627035833957.png)
+![image-20210627035833957](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627035833957.png)
 
 ## 7.6、Jenkins+Kubernetes+Docker完成微服务持续集成
 
@@ -2571,15 +2571,15 @@ Dockerfile文件内容如下：
 
 #### 1 ）创建NFS共享目录
 
-![image-20210627035943125](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627035943125.png)
+![image-20210627035943125](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627035943125.png)
 
 #### 2 ）创建项目,编写构建Pipeline
 
-![image-20210627040056405](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040056405.png)
+![image-20210627040056405](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040056405.png)
 
-![image-20210627040115782](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040115782.png)
+![image-20210627040115782](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040115782.png)
 
-![image-20210627040142673](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040142673.png)
+![image-20210627040142673](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040142673.png)
 
 注意:在构建过程会发现无法创建仓库目录，是因为NFS共享目录权限不足,需更改权限
 
@@ -2593,7 +2593,7 @@ Dockerfile文件内容如下：
 
 需要手动上传父工程依赖到NFS的Maven共享仓库目录中
 
-![image-20210627040248135](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040248135.png)
+![image-20210627040248135](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040248135.png)
 
 ### 7.6.2、微服务部署到K8S
 
@@ -2601,23 +2601,23 @@ Dockerfile文件内容如下：
 
 Eureka
 
-![image-20210627040406015](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040406015.png)
+![image-20210627040406015](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040406015.png)
 
 其他微服务需要注册到所有Eureka中
 
-![image-20210627040421066](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040421066.png)
+![image-20210627040421066](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040421066.png)
 
 #### 1 ）安装Kubernetes Continuous Deploy插件
 
-![image-20210627040447323](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040447323.png)
+![image-20210627040447323](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040447323.png)
 
 #### 2）修改后的流水线脚本
 
-![image-20210627040503396](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040503396.png)
+![image-20210627040503396](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040503396.png)
 
 #### 3 ）建立k8s认证凭证
 
-![image-20210627040519818](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040519818.png)
+![image-20210627040519818](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040519818.png)
 
 ​	kubeconfifig到k8s的Master节点复制
 
@@ -2627,17 +2627,17 @@ Eureka
 
 Docker凭证，用于Kubernetes至"Docker私服拉取镜像
 
-![image-20210627040614169](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040614169.png)
+![image-20210627040614169](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040614169.png)
 
 #### 6 )  在每个项目下建立deploy.xml
 
 Eureka 的 deply.yml
 
-![image-20210627040656368](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040656368.png)
+![image-20210627040656368](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040656368.png)
 
 其他项目的deploy.yml主要把名字和端口修改：
 
-![image-20210627040737016](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040737016.png)
+![image-20210627040737016](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040737016.png)
 
 #### 7 ）项目构建后，查看服务创建情况
 
@@ -2647,7 +2647,7 @@ Eureka 的 deply.yml
 
 效果如下:
 
-![image-20210627040826342](https://github.com/HymesZhao/StudyNotes/blob/master/Jekins/JenkinsPic/image-20210627040826342.png)
+![image-20210627040826342](https://github.com/HymesZhao/StudyNotes/blob/master/Jenkins/JenkinsPic/image-20210627040826342.png)
 
 
 
