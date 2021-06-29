@@ -277,7 +277,7 @@
 
 # **1、课程整体内容概述**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.001.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.001.png)
 
 ## **1.1、Java语言概述**
 
@@ -295,7 +295,7 @@
 
 **常用DOS命令：**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.002.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.002.png)
 
 ### **1.1.2.计算机语言的发展迭代史**
 
@@ -361,14 +361,14 @@ Android应用程序开发：客户端开发
 
 功劳归功于：JVM
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.003.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.003.png)
 
 ## **1.2、开发环境搭建**
 
 ### **1.2.1 JDK、JRE、JVM的关系**
 
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.004.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.004.png)
 
 ### **1.2.2 JDK的下载、安装**
 
@@ -388,13 +388,13 @@ path环境变量：windows操作系统执行命令时所要搜寻的路径
 
 - **如何配置**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.005.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.005.png)
 
 ## **1.3、第一个Java程序**
 
 ### **1.3.1.开发体验——HelloWorld**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.006.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.006.png)
 
 - **编写创建一个 java 源文件：**
 
@@ -419,9 +419,9 @@ java HelloChina
 
 ### **1.3.2.常见问题的解决**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.007.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.007.png)
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.008.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.008.png)
 
 ### **1.3.3.总结第一个程序**
 
@@ -494,9 +494,9 @@ API文档：针对于提供的类库如何使用，给的一个说明书。类�
 
 具体哪些关键字：
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.009.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.009.png)
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.010.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.010.png)
 
 ### **2.1.2.保留字：**
 
@@ -607,11 +607,11 @@ API文档：针对于提供的类库如何使用，给的一个说明书。类�
 
 ## **2.3、进制(了解)**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.011.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.011.png)
 
 ### **2.3.1.编程中涉及的进制及表示方式：**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.012.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.012.png)
 
 ### **2.3.2.二进制的使用说明：**
 
@@ -627,26 +627,26 @@ API文档：针对于提供的类库如何使用，给的一个说明书。类�
   - 正数：三码合一
   - 负数：
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.013.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.013.png)
 
 - **进制间的转换：**
   
   **图示**
-  ![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.012.png)
+  ![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.012.png)
   
   **图示二进制转换为十进制：**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.014.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.014.png)
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.015.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.015.png)
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.016.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.016.png)
 
 **图示十进制转换为二进制：**
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.017.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.017.png)
 **二进制与八进制、十六进制间的转换：**
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.018.png)
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.019.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.018.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.019.png)
 
 ## **2.4、运算符**
 
@@ -1295,7 +1295,7 @@ for(int i = 0;i < names.length;i++){
 
 #### **3.2.3.6.一维数组的内存解析**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.020.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.020.png)
 
 ## **3.3.二维数组**
 
@@ -1639,9 +1639,9 @@ Person p3 = p1;//没有新创建一个对象，共用一个堆空间中的对象
 
 内存解析：
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.021.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.021.png)
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.022.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.022.png)
 
 #### **4.1.2.7.匿名对象:**
 
@@ -1689,7 +1689,7 @@ class PhoneMall{
 
 《JVM规范》
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.023.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.023.png)
 
 **虚拟机栈，**即为平时提到的栈结构。我们将局部变量存储在栈结构中
 
@@ -1743,12 +1743,12 @@ class PhoneMall{
 
  方式一：按照数据类型：
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.024.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.024.png)
 
 
 ​	方式二：按照在类中声明的位置：
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.025.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.025.png)
 
 ## **4.4.类的结构之二：方法**
 
@@ -2007,12 +2007,12 @@ System.out.println("\*\*\*\*\*\*\*\*\*\*\*基本数据类型：\*\*\*\*\*\*\*\*\
 
 【例题1】
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.026.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.026.png)
 
 
 【例题2】
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.027.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.027.png)
 
 ### **4.4.8.递归方法**
 
@@ -2121,7 +2121,7 @@ public double getRadius(){
 
 #### **4.5.4.2 具体的修饰范围：**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.028.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.028.png)
 
 #### **4.5.4.3权限修饰符可用来修饰的结构说明：**
 
@@ -2237,15 +2237,15 @@ public Person(String n,int a){
 
 举例一：某航运软件系统包括：一组域对象、GUI和reports子系统
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.029.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.029.png)
 
 举例二：MVC设计模式
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.030.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.030.png)
 
 #### **4.8.1.3 JDK中的主要包介绍：**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.031.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.031.png)
 
 ### **4.8.2.import的使用：**
 
@@ -2272,7 +2272,7 @@ public Person(String n,int a){
 - ③ 为之后多态性的使用，提供了前提
   图示：
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.032.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.032.png)
 
 ### **5.1.2.继承性的格式：**
 
@@ -2303,7 +2303,7 @@ class A extends B{}
 
 图示：
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.033.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.033.png)
 
 ### **5.1.5.java.lang.Object类的理解**
 
@@ -2429,13 +2429,13 @@ class CheckAccount extends Account{
 
 图示：
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.034.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.034.png)
 
 ### **5.4.3.强调说明：**
 
 虽然创建子类对象时，调用了父类的构造器，但是自始至终就创建过一个对象，即为new的子类对象。
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.035.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.035.png)
 
 ## **5.5.面向对象的特征三：多态性**
 
@@ -2534,7 +2534,7 @@ class Driver{
 - #####  图示：
 
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.036.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.036.png)
 
 ### **5.5.8.面试题：**
 
@@ -2677,7 +2677,7 @@ public String toString() {
 
 ## **5.8.包装类的使用**
 
-![图片](C:\Users\HymesZhao\Desktop\java____1\imgs\https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.037.png)
+![图片](C:\Users\HymesZhao\Desktop\java____1\imgs\https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.037.png)
 
 ### **5.8.1.为什么要有包装类(或封装类）**
 
@@ -2689,7 +2689,7 @@ public String toString() {
 
 **（基本数据类型、包装类、String）**
 
-![图片](C:\Users\HymesZhao\Desktop\java____1\imgs\https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.038.png)
+![图片](C:\Users\HymesZhao\Desktop\java____1\imgs\https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.038.png)
 
 **简易版：**
 
@@ -2751,7 +2751,7 @@ v.addElement(Object obj);   //基本数据类型 --->包装类 --->使用多态
 
 #### **6.1.1.3.静态变量内存解析：**
 
-![图片](C:\Users\HymesZhao\Desktop\java____1\imgs\https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.039.png)
+![图片](C:\Users\HymesZhao\Desktop\java____1\imgs\https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.039.png)
 
 #### **6.1.1.4.static修饰方法：静态方法、类方法**
 
@@ -3084,7 +3084,7 @@ abstract: 抽象的
 
 **举例一：**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.040.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.040.png)
 
 **举例二：**
 
@@ -3151,7 +3151,7 @@ class SubTemplate extends Template{
 
 #### **6.4.5.3.应用场景**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.041.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.041.png)
 
 ## **6.6、关键字：interface**
 
@@ -3193,7 +3193,7 @@ interface:接口
 
 ### **6.6.2.举例：**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.042.png)	
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.042.png)	
 
 ```java
 class Computer{
@@ -3241,7 +3241,7 @@ class Printer implements USB{
 
 ### **6.6.3.体会面向接口编程的思想**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.043.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.043.png)
 
 面向接口编程：我们在应用程序中，调用的结构都是JDBC中定义的接口，不会出现具体某一个
 
@@ -3325,7 +3325,7 @@ class ProxyServer implements NetWork{
 
 #### **6.6.6.3.应用场景**
 
-![图片](https://github.com/HymesZhao/StudyNotes/blob/master/javaJunior/javaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.044.png)
+![图片](https://github.com/HymesZhao/StudyNotes/blob/master/JavaJunior/JavaJuniorPic/Aspose.Words.0f4e9a31-5457-4a5c-86c0-9fd3c4e16363.044.png)
 
 ### **6.6.7.工厂的设计模式**
 
